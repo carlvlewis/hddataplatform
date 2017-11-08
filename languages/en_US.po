@@ -1,0 +1,4684 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProjectTheme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-05 00:20+0300\n"
+"PO-Revision-Date: 2016-10-05 00:20+0300\n"
+"Last-Translator: sitemile <sitemile@sitemile.com>\n"
+"Language-Team: sitemile.com <sitemile@sitemile.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SearchPath-0: 404.php\n"
+"X-Poedit-SearchPath-1: archive.php\n"
+"X-Poedit-SearchPath-2: archive-job.php\n"
+"X-Poedit-SearchPath-3: archive-project.php\n"
+"X-Poedit-SearchPath-4: autosuggest.php\n"
+"X-Poedit-SearchPath-5: comments.php\n"
+"X-Poedit-SearchPath-6: footer.php\n"
+"X-Poedit-SearchPath-7: functions.php\n"
+"X-Poedit-SearchPath-8: header.php\n"
+"X-Poedit-SearchPath-9: index.php\n"
+"X-Poedit-SearchPath-10: latest-jobs.php\n"
+"X-Poedit-SearchPath-11: latest-projects.php\n"
+"X-Poedit-SearchPath-12: my-upload.php\n"
+"X-Poedit-SearchPath-13: page.php\n"
+"X-Poedit-SearchPath-14: project-special-page-template.php\n"
+"X-Poedit-SearchPath-15: search.php\n"
+"X-Poedit-SearchPath-16: sidebar-footer.php\n"
+"X-Poedit-SearchPath-17: single.php\n"
+"X-Poedit-SearchPath-18: single-project.php\n"
+"X-Poedit-SearchPath-19: tag.php\n"
+"X-Poedit-SearchPath-20: taxonomy.php\n"
+"X-Poedit-SearchPath-21: lib\n"
+"X-Poedit-SearchPath-22: classes\n"
+"X-Poedit-SearchPathExcluded-0: lib/uploadify\n"
+
+#: 404.php:21
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:49
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:51
+msgid ""
+"The requested page cannot be found. Maybe your project has not been approved "
+"yet."
+msgstr ""
+
+#: archive-job.php:73 latest-jobs.php:53 tag.php:41
+msgid "All Posted Jobs"
+msgstr ""
+
+#: archive-job.php:74 tag.php:42
+#, php-format
+msgid "Latest Posted Jobs in %s"
+msgstr ""
+
+#: archive-job.php:80
+msgid "Filter jobs by:"
+msgstr ""
+
+#: archive-job.php:83
+msgid "Auto"
+msgstr ""
+
+#: archive-job.php:86
+msgid "New"
+msgstr ""
+
+#: archive-job.php:89 lib/admin_menu.php:2514 lib/admin_menu.php:2594
+#: lib/my_account/feedbacks.php:168 lib/user-feedback.php:70
+#: lib/user-profile.php:285 lib/user-profile.php:419
+msgid "Rating"
+msgstr ""
+
+#: archive-job.php:91
+msgid "Views"
+msgstr ""
+
+#: archive-job.php:92
+msgid "Popularity"
+msgstr ""
+
+#: archive-job.php:93
+msgid "Express Jobs"
+msgstr ""
+
+#: archive-job.php:94
+msgid "Instant Delivery"
+msgstr ""
+
+#: archive-job.php:107 latest-jobs.php:69
+msgid "Switch View:"
+msgstr ""
+
+#: archive-job.php:167 tag.php:62
+msgid "No jobs posted."
+msgstr ""
+
+#: archive-project.php:69 taxonomy.php:108
+msgid "All Posted Projects"
+msgstr ""
+
+#: archive-project.php:70 taxonomy.php:109
+#, php-format
+msgid "Latest Posted Projects in %s"
+msgstr ""
+
+#: archive-project.php:128 lib/advanced_search.php:410 lib/user-profile.php:161
+#: lib/user-profile.php:371 taxonomy.php:221
+msgid "No projects posted."
+msgstr ""
+
+#: archive.php:23
+#, php-format
+msgid "Daily Blog Archives: %s"
+msgstr ""
+
+#: archive.php:25
+#, php-format
+msgid "Monthly Blog Archives: %s"
+msgstr ""
+
+#: archive.php:27
+#, php-format
+msgid "Yearly Blog Archives: %s"
+msgstr ""
+
+#: archive.php:29
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:73
+msgid "No blog posts for this tag."
+msgstr ""
+
+#: autosuggest.php:82
+msgid "No results found"
+msgstr ""
+
+#: comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:27 comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:28 comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:29 comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:196
+msgid "ERROR: Your username or password are incorrect."
+msgstr ""
+
+#: functions.php:497
+msgid "This user doesnt have a description."
+msgstr ""
+
+#: functions.php:513
+msgid "Contact User"
+msgstr ""
+
+#: functions.php:514 lib/user-feedback.php:11
+msgid "User Feedback"
+msgstr ""
+
+#: functions.php:567
+msgid "Browse By Category"
+msgstr ""
+
+#: functions.php:600
+msgid "Start Search"
+msgstr ""
+
+#: functions.php:930
+#, php-format
+msgid "%s previous value: %s new value: %s"
+msgstr ""
+
+#: functions.php:945
+#, php-format
+msgid "%s (%s) has changed one or more fields"
+msgstr ""
+
+#: functions.php:1191
+#, php-format
+msgid "Page %s of %s"
+msgstr ""
+
+#: functions.php:1209 functions.php:2969
+msgid "First"
+msgstr ""
+
+#: functions.php:1235 functions.php:2970
+msgid "Last"
+msgstr ""
+
+#: functions.php:1497 functions.php:5162 functions.php:5600 functions.php:5967
+#: functions.php:6293 functions.php:6832 functions.php:7177
+msgid "Posted in"
+msgstr ""
+
+#: functions.php:1506 lib/advanced_search.php:210
+#: lib/my_account/edit_project.php:1016
+#: lib/my_account/personal_information.php:268 lib/post_new.php:369
+#: lib/post_new.php:375 lib/post_new.php:1114 single-project.php:657
+msgid "Location"
+msgstr ""
+
+#: functions.php:1509 lib/user-profile.php:96
+msgid "not defined"
+msgstr ""
+
+#: functions.php:1629 lib/my_account/feedbacks.php:31
+#: lib/my_account/feedbacks.php:98 lib/my_account/feedbacks.php:164
+#: lib/user-feedback.php:66 lib/user-profile.php:281 lib/user-profile.php:415
+msgid "Project Title"
+msgstr ""
+
+#: functions.php:1630
+msgid "Author"
+msgstr ""
+
+#: functions.php:1631
+msgid "Posted On"
+msgstr ""
+
+#: functions.php:1632 functions.php:1861 lib/advanced_search.php:205
+#: lib/advanced_search.php:288 lib/my_account/feedbacks.php:34
+#: lib/my_account/feedbacks.php:101 lib/my_account/feedbacks.php:167
+#: lib/my_account/repost_project.php:513 lib/user-feedback.php:69
+#: lib/user-profile.php:284 lib/user-profile.php:418
+msgid "Price"
+msgstr ""
+
+#: functions.php:1633 functions.php:5256
+msgid "Expires in"
+msgstr ""
+
+#: functions.php:1634
+msgid "Featured"
+msgstr ""
+
+#: functions.php:1635 lib/admin_menu.php:2270 lib/admin_menu.php:2401
+msgid "Approved"
+msgstr ""
+
+#: functions.php:1636
+msgid "Thumbnail"
+msgstr ""
+
+#: functions.php:1637 functions.php:2290 lib/admin_menu.php:2271
+#: lib/admin_menu.php:2402 lib/admin_menu.php:2517 lib/admin_menu.php:2597
+#: lib/admin_menu.php:3614 lib/admin_menu.php:3679 lib/admin_menu.php:3743
+#: lib/admin_menu.php:3824 lib/admin_menu.php:3912 lib/admin_menu.php:4000
+#: lib/my_account/feedbacks.php:35 lib/my_account/payments.php:376
+#: lib/my_account/private_messages.php:90
+#: lib/my_account/private_messages.php:144
+#: lib/my_account/private_messages.php:256
+#: lib/my_account/private_messages.php:374 lib/post_new.php:53
+msgid "Options"
+msgstr ""
+
+#: functions.php:1647
+msgid "Workspace Title"
+msgstr ""
+
+#: functions.php:1648
+msgid "Project Owner"
+msgstr ""
+
+#: functions.php:1649
+msgid "Freelancer"
+msgstr ""
+
+#: functions.php:1650 lib/my_account/payments.php:374
+#: lib/my_account/private_messages.php:89
+#: lib/my_account/private_messages.php:143
+#: lib/my_account/private_messages.php:255
+#: lib/my_account/private_messages.php:373
+msgid "Date"
+msgstr ""
+
+#: functions.php:1712 functions.php:1880 functions.php:2306
+#: lib/admin_menu.php:200 lib/admin_menu.php:854 lib/admin_menu.php:2297
+#: lib/admin_menu.php:2432 lib/admin_menu.php:4064 lib/admin_menu.php:4353
+#: lib/admin_menu.php:6741 lib/post_new.php:1346
+msgid "Yes"
+msgstr ""
+
+#: functions.php:1713 functions.php:1879 lib/admin_menu.php:200
+#: lib/admin_menu.php:854 lib/admin_menu.php:2297 lib/admin_menu.php:2432
+#: lib/admin_menu.php:4064 lib/admin_menu.php:4353 lib/admin_menu.php:6741
+#: lib/choose_winner.php:183 lib/my_account/mark_completed.php:99
+#: lib/my_account/mark_delivered.php:97
+msgid "No"
+msgstr ""
+
+#: functions.php:1752 functions.php:3427 functions.php:3576 functions.php:3641
+#: lib/my_account/repost_project.php:275 lib/my_account/repost_project.php:561
+#: lib/post_new.php:1328
+msgid "Select"
+msgstr ""
+
+#: functions.php:1877
+msgid "Sealed Bids"
+msgstr ""
+
+#: functions.php:1887
+msgid "Feature this project"
+msgstr ""
+
+#: functions.php:1893
+msgid "Hide this project"
+msgstr ""
+
+#: functions.php:1899 functions.php:5257 functions.php:5712
+msgid "Closed"
+msgstr ""
+
+#: functions.php:1905 lib/my_account/edit_project.php:1093 lib/post_new.php:462
+#: lib/post_new.php:1711 single-project.php:1239
+msgid "Address"
+msgstr ""
+
+#: functions.php:1925 lib/my_account/edit_project.php:722
+#: lib/my_account/repost_project.php:543 lib/post_new.php:309
+msgid "Project Ending On"
+msgstr ""
+
+#: functions.php:2214 lib/bidding-panel.php:281
+#: lib/my_account/edit_project.php:983 lib/my_account/repost_project.php:504
+#: lib/post_new.php:683
+msgid ""
+"Click the grey area below to add project files. Images are not accepted."
+msgstr ""
+
+#: functions.php:2285 lib/admin_menu.php:3609 lib/admin_menu.php:3673
+#: lib/admin_menu.php:3738 lib/admin_menu.php:3819 lib/admin_menu.php:3907
+#: lib/admin_menu.php:3995 lib/my_account/personal_information.php:256
+#: lib/post_new.php:1279
+msgid "Username"
+msgstr ""
+
+#: functions.php:2286
+msgid "Bid Amount"
+msgstr ""
+
+#: functions.php:2287 lib/post_new.php:1281
+msgid "Date Made"
+msgstr ""
+
+#: functions.php:2289 functions.php:6014 functions.php:6373 functions.php:7236
+#: lib/post_new.php:1292
+msgid "Winner"
+msgstr ""
+
+#: functions.php:2307
+msgid "Remove Winner"
+msgstr ""
+
+#: functions.php:2315 functions.php:5044
+msgid "No bids placed yet."
+msgstr ""
+
+#: functions.php:2422 lib/my_account/edit_project.php:856
+#: lib/my_account/repost_project.php:379 lib/post_new.php:556
+msgid ""
+"Click the grey area below to add project images. Other files are not "
+"accepted. Use the form below."
+msgstr ""
+
+#: functions.php:2494 functions.php:2892 functions.php:2895
+msgid "Projects"
+msgstr ""
+
+#: functions.php:2495 lib/admin_menu.php:2513 lib/admin_menu.php:2593
+#: lib/my_account/payments.php:373
+msgid "Project"
+msgstr ""
+
+#: functions.php:2496 functions.php:2499
+msgid "Add New Project"
+msgstr ""
+
+#: functions.php:2497
+msgid "New Project"
+msgstr ""
+
+#: functions.php:2498 functions.php:5195 functions.php:5648 functions.php:6540
+#: lib/my_account/edit_project.php:18
+msgid "Edit Project"
+msgstr ""
+
+#: functions.php:2500
+msgid "Search Projects"
+msgstr ""
+
+#: functions.php:2523
+msgid "Workspaces"
+msgstr ""
+
+#: functions.php:2524
+msgid "Workspace"
+msgstr ""
+
+#: functions.php:2525 functions.php:2528
+msgid "Add New Workspace"
+msgstr ""
+
+#: functions.php:2526
+msgid "New Workspace"
+msgstr ""
+
+#: functions.php:2527
+msgid "Edit Workspace"
+msgstr ""
+
+#: functions.php:2529
+msgid "Search Workspaces"
+msgstr ""
+
+#: functions.php:2550
+msgid "Add New Location"
+msgstr ""
+
+#: functions.php:2551
+msgid "Search Locations"
+msgstr ""
+
+#: functions.php:2553
+msgid "Project Categories"
+msgstr ""
+
+#: functions.php:2555
+msgid "Locations"
+msgstr ""
+
+#: functions.php:2557 lib/post_new.php:259
+msgid "Skills"
+msgstr ""
+
+#: functions.php:2569 lib/choose_user_tp.php:82
+#: lib/login_register/register.php:164
+msgid "Service Provider"
+msgstr ""
+
+#: functions.php:2574 lib/choose_user_tp.php:83
+#: lib/login_register/register.php:165
+msgid "Service Contractor"
+msgstr ""
+
+#: functions.php:2894
+msgid "Freelancers"
+msgstr ""
+
+#: functions.php:2901
+msgid "What do you need?"
+msgstr ""
+
+#: functions.php:2967 lib/admin_menu.php:2323 lib/admin_menu.php:8659
+#: lib/admin_menu.php:8796 lib/provider_search.php:149
+msgid "Previous"
+msgstr ""
+
+#: functions.php:2968 lib/admin_menu.php:2343 lib/admin_menu.php:8679
+#: lib/admin_menu.php:8816 lib/provider_search.php:165
+msgid "Next"
+msgstr ""
+
+#: functions.php:3089 lib/post_new.php:1130 single-project.php:673
+msgid "Posted on"
+msgstr ""
+
+#: functions.php:3089 functions.php:5163 functions.php:5601 functions.php:5968
+#: functions.php:6294 functions.php:6833 functions.php:7178
+msgid "by"
+msgstr ""
+
+#: functions.php:3095 functions.php:5177 functions.php:5630 functions.php:6522
+msgid "Read More"
+msgstr ""
+
+#: functions.php:3124
+msgid "Featured Projects of the Day"
+msgstr ""
+
+#: functions.php:3212
+msgid "MyAccount Home"
+msgstr ""
+
+#: functions.php:3223 lib/my_account/payments.php:162
+msgid "Finances"
+msgstr ""
+
+#: functions.php:3226
+#, php-format
+msgid "Workspaces %s"
+msgstr ""
+
+#: functions.php:3227
+#, php-format
+msgid "Private Messages %s"
+msgstr ""
+
+#: functions.php:3228
+msgid "Personal Info"
+msgstr ""
+
+#: functions.php:3229
+#, php-format
+msgid "Reviews/Feedback %s"
+msgstr ""
+
+#: functions.php:3245
+msgid "Service Contractor Menu"
+msgstr ""
+
+#: functions.php:3305
+msgid "Post New Project"
+msgstr ""
+
+#: functions.php:3306
+msgid "Active Projects"
+msgstr ""
+
+#: functions.php:3307
+msgid "Closed Projects"
+msgstr ""
+
+#: functions.php:3308
+#, php-format
+msgid "Unpublished Projects %s"
+msgstr ""
+
+#: functions.php:3309
+#, php-format
+msgid "Awaiting Completion %s"
+msgstr ""
+
+#: functions.php:3310
+#, php-format
+msgid "Outstanding Payments %s"
+msgstr ""
+
+#: functions.php:3311
+msgid "Completed Payments"
+msgstr ""
+
+#: functions.php:3327
+msgid "Freelancer Menu"
+msgstr ""
+
+#: functions.php:3380
+msgid "Won Projects"
+msgstr ""
+
+#: functions.php:3381
+#, php-format
+msgid "Outstanding Projects %s"
+msgstr ""
+
+#: functions.php:3382
+#, php-format
+msgid "Awaiting Payments %s"
+msgstr ""
+
+#: functions.php:3383
+msgid "Delivered & Paid Projects"
+msgstr ""
+
+#: functions.php:3386
+msgid "My Proposals"
+msgstr ""
+
+#: functions.php:4930 functions.php:4955
+msgid "(No rating)"
+msgstr ""
+
+#: functions.php:4943 functions.php:4968
+#, php-format
+msgid "on %s rating(s)"
+msgstr ""
+
+#: functions.php:5171 functions.php:5624 functions.php:6516 functions.php:7067
+msgid "Pay This"
+msgstr ""
+
+#: functions.php:5188 functions.php:5641 functions.php:6533
+msgid "Publish"
+msgstr ""
+
+#: functions.php:5203 functions.php:5656 functions.php:6548
+#: lib/my_account/repost_project.php:18 lib/my_account/repost_project.php:228
+msgid "Repost Project"
+msgstr ""
+
+#: functions.php:5212 functions.php:5665 functions.php:6557
+#: lib/admin_menu.php:2299 lib/admin_menu.php:2434
+#: lib/my_account/private_messages.php:107
+#: lib/my_account/private_messages.php:162
+#: lib/my_account/private_messages.php:274
+#: lib/my_account/private_messages.php:393 lib/post_new.php:1766
+#: single-project.php:1296
+msgid "Delete"
+msgstr ""
+
+#: functions.php:5229 functions.php:5985 functions.php:6344 functions.php:6893
+#: functions.php:7206
+msgid "Budget"
+msgstr ""
+
+#: functions.php:5243 lib/post_new.php:1099 single-project.php:642
+msgid "Average Bid"
+msgstr ""
+
+#: functions.php:5250
+msgid "Bids Posted"
+msgstr ""
+
+#: functions.php:5298 functions.php:5299 functions.php:5419 functions.php:5420
+#: functions.php:5815 functions.php:6432 functions.php:6433 functions.php:6612
+#: functions.php:6613
+#, php-format
+msgid "%s proposals"
+msgstr ""
+
+#: functions.php:5300 functions.php:5305 functions.php:5421 functions.php:5426
+#: functions.php:6440 functions.php:6455 lib/post_new.php:1138
+#: single-project.php:681
+msgid "Expired/Closed"
+msgstr ""
+
+#: functions.php:5315 functions.php:5436 functions.php:5840 functions.php:6109
+#: functions.php:6465 functions.php:6639 functions.php:7004
+#: single-project.php:342
+msgid "Featured Project"
+msgstr ""
+
+#: functions.php:5318 functions.php:5439 functions.php:5843 functions.php:6112
+#: functions.php:6468 functions.php:6642 functions.php:7007
+#: single-project.php:345
+msgid "Sealed Bidding"
+msgstr ""
+
+#: functions.php:5327 functions.php:5448 functions.php:6477
+msgid "This project might not have been approved yet."
+msgstr ""
+
+#: functions.php:5387 functions.php:5499 functions.php:5890 functions.php:6216
+#: functions.php:6577 functions.php:6744 functions.php:7092
+#: lib/post_new.php:1598 single-project.php:1126
+msgid "View User Feedback"
+msgstr ""
+
+#: functions.php:5484
+#, php-format
+msgid "My Bid Amount: %s"
+msgstr ""
+
+#: functions.php:5485 functions.php:6490
+#, php-format
+msgid "Average Bid: %s"
+msgstr ""
+
+#: functions.php:5609
+msgid "Your project is awaiting moderation."
+msgstr ""
+
+#: functions.php:5683
+msgid "Budget:"
+msgstr ""
+
+#: functions.php:5703 lib/my_account/repost_project.php:559
+msgid "Location:"
+msgstr ""
+
+#: functions.php:5711
+msgid "Expires in:"
+msgstr ""
+
+#: functions.php:5824
+#, php-format
+msgid "Delivery was On: %s"
+msgstr ""
+
+#: functions.php:5852 functions.php:6651
+#, php-format
+msgid "My Bid: %s"
+msgstr ""
+
+#: functions.php:5874
+msgid "Waiting for the service contractor to submit payment."
+msgstr ""
+
+#: functions.php:5999 functions.php:6358 functions.php:6907 functions.php:7220
+msgid "Winning Bid"
+msgstr ""
+
+#: functions.php:6028 functions.php:6388 functions.php:6922
+msgid "Delivery On"
+msgstr ""
+
+#: functions.php:6095 functions.php:6988
+#, php-format
+msgid "WInner: %s"
+msgstr ""
+
+#: functions.php:6098 functions.php:6991
+#, php-format
+msgid "Delivery On: %s"
+msgstr ""
+
+#: functions.php:6121 functions.php:7016
+#, php-format
+msgid "Winning Bid: %s"
+msgstr ""
+
+#: functions.php:6147 functions.php:6303
+msgid "The winner must mark this as delivered."
+msgstr ""
+
+#: functions.php:6160
+msgid "Deposit PayPal Escrow"
+msgstr ""
+
+#: functions.php:6167
+msgid ""
+"You have deposited escrow by PayPal for this project. Once the freelancer "
+"delivers the project, and you accept it, you will release the funds to "
+"freelancer. "
+msgstr ""
+
+#: functions.php:6179 functions.php:6313 lib/my_account/payments.php:578
+msgid "Make Escrow"
+msgstr ""
+
+#: functions.php:6181 functions.php:6315
+msgid "Escrow was made for this project."
+msgstr ""
+
+#: functions.php:6191 functions.php:6325
+#, php-format
+msgid "Marked as delivered on: %s"
+msgstr ""
+
+#: functions.php:6192 functions.php:6326
+msgid "Accept this project and: "
+msgstr ""
+
+#: functions.php:6194 functions.php:6328
+msgid "Mark Completed"
+msgstr ""
+
+#: functions.php:6622
+#, php-format
+msgid "Due Date: %s"
+msgstr ""
+
+#: functions.php:6673
+msgid ""
+"After finishing the work on the project, you can mark it as "
+"<em><strong>delivered</strong></em>"
+msgstr ""
+
+#: functions.php:6693 functions.php:6858
+msgid "Mark Delivered"
+msgstr ""
+
+#: functions.php:6698 functions.php:6863
+msgid ""
+"The service contractor must deposit the money escrow through PayPal before "
+"the project starts."
+msgstr ""
+
+#: functions.php:6709
+msgid ""
+"The project owner has put the money into escrow for you. Once you mark the "
+"project as delivered the owner will release the money. "
+msgstr ""
+
+#: functions.php:6724 functions.php:6874
+#, php-format
+msgid "Awaiting buyer response.<br/>Marked as delivered on: %s"
+msgstr ""
+
+#: functions.php:7055
+msgid "Complete PayPal Escrow Payment"
+msgstr ""
+
+#: functions.php:7075
+#, php-format
+msgid ""
+"Escrow was made. <a href=\"%s\" class=\"green_btn\">Go and release it.</a>"
+msgstr ""
+
+#: functions.php:7190
+#, php-format
+msgid "Paid on: %s"
+msgstr ""
+
+#: functions.php:7266
+msgid "Expired"
+msgstr ""
+
+#: functions.php:7268
+#, php-format
+msgid "%s hours, %s min, %s sec"
+msgstr ""
+
+#: functions.php:7271
+msgid "days"
+msgstr ""
+
+#: functions.php:7271
+msgid "day"
+msgstr ""
+
+#: functions.php:7272
+#, php-format
+msgid "%s %s, %s hours, %s min"
+msgstr ""
+
+#: functions.php:7601 lib/my_account/edit_project.php:670 lib/post_new.php:214
+msgid "Select Subcategory"
+msgstr ""
+
+#: functions.php:7633 functions.php:7683
+msgid "Select Sublocation"
+msgstr ""
+
+#: functions.php:8807
+msgid "Single Page Sidebar"
+msgstr ""
+
+#: functions.php:8809
+msgid "The sidebar area of the single blog post"
+msgstr ""
+
+#: functions.php:8817
+msgid "Other Page Sidebar"
+msgstr ""
+
+#: functions.php:8819
+msgid "The sidebar area of any other page than the defined ones"
+msgstr ""
+
+#: functions.php:8830
+msgid "Home Page Sidebar - Right"
+msgstr ""
+
+#: functions.php:8832
+msgid "The right sidebar area of the homepage"
+msgstr ""
+
+#: functions.php:8843
+msgid "Home Page Sidebar - Left"
+msgstr ""
+
+#: functions.php:8845
+msgid "The left sidebar area of the homepage"
+msgstr ""
+
+#: functions.php:8855
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: functions.php:8857
+msgid "The first footer widget area"
+msgstr ""
+
+#: functions.php:8866
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: functions.php:8868
+msgid "The second footer widget area"
+msgstr ""
+
+#: functions.php:8877
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: functions.php:8879
+msgid "The third footer widget area"
+msgstr ""
+
+#: functions.php:8888
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: functions.php:8890
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: functions.php:8900
+msgid "ProjectTheme - Project Single Sidebar"
+msgstr ""
+
+#: functions.php:8902
+msgid "The sidebar of the single project page"
+msgstr ""
+
+#: functions.php:8911
+msgid "ProjectTheme - HomePage Area"
+msgstr ""
+
+#: functions.php:8913
+msgid "The sidebar for the main page, just under the slider."
+msgstr ""
+
+#: functions.php:8922
+msgid "ProjectTheme - Stretch Wide Sidebar"
+msgstr ""
+
+#: functions.php:8924
+msgid "The sidebar sidewide stretched, just under the slider."
+msgstr ""
+
+#: functions.php:10026
+#, php-format
+msgid "Your payment was completed for the project: %s"
+msgstr ""
+
+#: functions.php:10027
+#, php-format
+msgid ""
+"You have paid for the project <a href=\"%s\">%s</a> the amount of: %s %s to "
+"user:\n"
+"\t<b>%s</b>"
+msgstr ""
+
+#: functions.php:10033 functions.php:10047
+#, php-format
+msgid "Details for closed Project: %s"
+msgstr ""
+
+#: functions.php:10034 functions.php:10048
+#, php-format
+msgid ""
+"The project <a href=\"%s\">%s</a> was just closed. Here is the user email "
+"for the other party: %s"
+msgstr ""
+
+#: functions.php:10041
+#, php-format
+msgid "Your have received payment for the project: %s"
+msgstr ""
+
+#: functions.php:10042
+#, php-format
+msgid ""
+"You have been just paid for the project <a href=\"%s\">%s</a> the amount of: "
+"%s %s from user:\n"
+"\t<b>%s</b>"
+msgstr ""
+
+#: functions.php:10061
+#, php-format
+msgid "Payment sent to <a href=\"%s\">%s</a> for project <a href=\"%s\">%s</a>"
+msgstr ""
+
+#: functions.php:10081
+#, php-format
+msgid ""
+"Payment received from <a href=\"%s\">%s</a> for project <a href=\"%s\">%s</a>"
+msgstr ""
+
+#: functions.php:10087
+#, php-format
+msgid "Payment fee for project <a href=\"%s\">%s</a>"
+msgstr ""
+
+#: functions.php:10291
+#, php-format
+msgid ""
+"In order to benefit of the full experience of our theme, we recommend "
+"installing <strong><a href=\"%s\">WP PageNavi Plugin</a></strong>. You will "
+"need it for pagination."
+msgstr ""
+
+#: functions.php:10315
+#, php-format
+msgid ""
+"In order to benefit of the full experience of our theme, we recommend "
+"installing <strong><a href=\"%s\">the Breadcrumb Plugin</a></strong>."
+msgstr ""
+
+#: header.php:209
+msgid "User Menu"
+msgstr ""
+
+#: header.php:214
+msgid "Main Menu"
+msgstr ""
+
+#: header.php:292
+msgid "WP-Admin"
+msgstr ""
+
+#: header.php:318 header.php:458 lib/login_register/login.php:155
+#: lib/login_register/login.php:532 lib/login_register/register.php:189
+#: lib/login_register/register.php:230
+msgid "Home"
+msgstr ""
+
+#: header.php:319
+msgid "Advanced Search"
+msgstr ""
+
+#: header.php:335
+msgid "Post New"
+msgstr ""
+
+#: header.php:339
+msgid "Blog"
+msgstr ""
+
+#: header.php:353
+msgid "MyAccount"
+msgstr ""
+
+#: header.php:355 lib/admin_menu.php:164
+msgid "Private Messages"
+msgstr ""
+
+#: header.php:356
+msgid "Payments"
+msgstr ""
+
+#: header.php:359
+msgid "Log Out"
+msgstr ""
+
+#: header.php:369 lib/login_register/login.php:157
+#: lib/login_register/login.php:534 lib/login_register/register.php:185
+msgid "Register"
+msgstr ""
+
+#: header.php:370
+msgid "Log In"
+msgstr ""
+
+#: header.php:400
+msgid "What service do you need? (e.g. website design)"
+msgstr ""
+
+#: header.php:467
+msgid "Project Search"
+msgstr ""
+
+#: header.php:478
+msgid "Provider Search"
+msgstr ""
+
+#: header.php:489
+msgid "All Projects"
+msgstr ""
+
+#: header.php:500
+msgid "Show All Categories"
+msgstr ""
+
+#: header.php:518
+msgid "Show All Locations"
+msgstr ""
+
+#: latest-jobs.php:41
+#, php-format
+msgid "All %s Jobs"
+msgstr ""
+
+#: latest-jobs.php:48
+#, php-format
+msgid "All Jobs in %s"
+msgstr ""
+
+#: latest-jobs.php:293
+msgid "Sorry, there are no posted jobs yet"
+msgstr ""
+
+#: latest-projects.php:14
+msgid "Latest Projects"
+msgstr ""
+
+#: latest-projects.php:44 lib/widgets/ending-soonest.php:54
+#: lib/widgets/featured-projects.php:56
+#: lib/widgets/latest-posted-projects.php:52
+#: lib/widgets/most-visited-projects.php:54
+msgid "Sorry, there are no posted projects yet."
+msgstr ""
+
+#: lib/activate_job.php:5
+msgid "Activate job"
+msgstr ""
+
+#: lib/activate_job.php:43
+#, php-format
+msgid "Activate Job - %s"
+msgstr ""
+
+#: lib/activate_job.php:54
+#, php-format
+msgid "The job has been activated. <a href='%s'>Go back</a> to your jobs area."
+msgstr ""
+
+#: lib/activate_job.php:62
+msgid "Are you sure you want to activate this job?"
+msgstr ""
+
+#: lib/activate_job.php:63
+msgid "Confirm Activation"
+msgstr ""
+
+#: lib/admin_menu.php:93
+msgid "Payment received from site admin"
+msgstr ""
+
+#: lib/admin_menu.php:107
+msgid "Payment subtracted by site admin"
+msgstr ""
+
+#: lib/admin_menu.php:140
+msgid "Project Theme"
+msgstr ""
+
+#: lib/admin_menu.php:141
+msgid "Site Overview"
+msgstr ""
+
+#: lib/admin_menu.php:142
+msgid "General Options"
+msgstr ""
+
+#: lib/admin_menu.php:143 lib/admin_menu.php:4869 lib/admin_menu.php:5107
+msgid "Email Settings"
+msgstr ""
+
+#: lib/admin_menu.php:144 lib/admin_menu.php:6740
+msgid "Pricing Settings"
+msgstr ""
+
+#: lib/admin_menu.php:145
+msgid "Custom Pricing"
+msgstr ""
+
+#: lib/admin_menu.php:146
+msgid "Custom Fields"
+msgstr ""
+
+#: lib/admin_menu.php:147
+msgid "User Fields"
+msgstr ""
+
+#: lib/admin_menu.php:148
+msgid "Images Options"
+msgstr ""
+
+#: lib/admin_menu.php:149 lib/admin_menu.php:195
+msgid "Category Images"
+msgstr ""
+
+#: lib/admin_menu.php:150
+msgid "Advertising"
+msgstr ""
+
+#: lib/admin_menu.php:151 lib/admin_menu.php:4348
+msgid "Layout Settings"
+msgstr ""
+
+#: lib/admin_menu.php:154
+msgid "Payment Gateways"
+msgstr ""
+
+#: lib/admin_menu.php:159
+msgid "Withdrawals"
+msgstr ""
+
+#: lib/admin_menu.php:160
+msgid "Escrows"
+msgstr ""
+
+#: lib/admin_menu.php:161
+msgid "User Balances"
+msgstr ""
+
+#: lib/admin_menu.php:162
+msgid "User Reviews"
+msgstr ""
+
+#: lib/admin_menu.php:163
+msgid "User Types"
+msgstr ""
+
+#: lib/admin_menu.php:165
+msgid "Orders"
+msgstr ""
+
+#: lib/admin_menu.php:167
+msgid "InSite Transactions"
+msgstr ""
+
+#: lib/admin_menu.php:168 lib/admin_menu.php:853
+msgid "Tracking Tools"
+msgstr ""
+
+#: lib/admin_menu.php:169
+msgid "Theme Info"
+msgstr ""
+
+#: lib/admin_menu.php:257
+msgid "Set Images"
+msgstr ""
+
+#: lib/admin_menu.php:278
+msgid "Category Name"
+msgstr ""
+
+#: lib/admin_menu.php:279
+msgid "Upload Picture"
+msgstr ""
+
+#: lib/admin_menu.php:280
+msgid "Current Picture"
+msgstr ""
+
+#: lib/admin_menu.php:360
+msgid "Select/Add Your Image"
+msgstr ""
+
+#: lib/admin_menu.php:367
+msgid "No image attached."
+msgstr ""
+
+#: lib/admin_menu.php:494 lib/admin_menu.php:505 lib/admin_menu.php:513
+#: lib/admin_menu.php:868 lib/admin_menu.php:876 lib/admin_menu.php:4088
+#: lib/admin_menu.php:4096 lib/admin_menu.php:4104 lib/admin_menu.php:4112
+#: lib/admin_menu.php:4121 lib/admin_menu.php:4365 lib/admin_menu.php:4372
+#: lib/admin_menu.php:4379 lib/admin_menu.php:4387 lib/admin_menu.php:4402
+#: lib/admin_menu.php:4720 lib/admin_menu.php:4728 lib/admin_menu.php:4736
+#: lib/admin_menu.php:4744 lib/admin_menu.php:4887 lib/admin_menu.php:4895
+#: lib/admin_menu.php:4903 lib/admin_menu.php:4912 lib/admin_menu.php:4921
+#: lib/admin_menu.php:4930 lib/admin_menu.php:4939 lib/admin_menu.php:4948
+#: lib/admin_menu.php:4957 lib/admin_menu.php:4966 lib/admin_menu.php:4975
+#: lib/admin_menu.php:4986 lib/admin_menu.php:4995 lib/admin_menu.php:5004
+#: lib/admin_menu.php:5013 lib/admin_menu.php:5022 lib/admin_menu.php:5031
+#: lib/admin_menu.php:5040 lib/admin_menu.php:5051 lib/admin_menu.php:5060
+#: lib/admin_menu.php:5069 lib/admin_menu.php:5078 lib/admin_menu.php:5088
+#: lib/admin_menu.php:5097 lib/admin_menu.php:6777 lib/admin_menu.php:6800
+msgid "Settings saved!"
+msgstr ""
+
+#: lib/admin_menu.php:734
+msgid "Filter Email Addresses (private messages):"
+msgstr ""
+
+#: lib/admin_menu.php:740
+msgid "Filter URLs (private messages):"
+msgstr ""
+
+#: lib/admin_menu.php:749 lib/admin_menu.php:783 lib/admin_menu.php:824
+#: lib/admin_menu.php:911 lib/admin_menu.php:941 lib/admin_menu.php:4225
+#: lib/admin_menu.php:4255 lib/admin_menu.php:4284 lib/admin_menu.php:4320
+#: lib/admin_menu.php:4478 lib/admin_menu.php:4537 lib/admin_menu.php:4601
+#: lib/admin_menu.php:4654 lib/admin_menu.php:4684 lib/admin_menu.php:4773
+#: lib/admin_menu.php:4798 lib/admin_menu.php:4822 lib/admin_menu.php:4846
+#: lib/admin_menu.php:5212 lib/admin_menu.php:5275 lib/admin_menu.php:5337
+#: lib/admin_menu.php:5403 lib/admin_menu.php:5467 lib/admin_menu.php:5530
+#: lib/admin_menu.php:5595 lib/admin_menu.php:5659 lib/admin_menu.php:5724
+#: lib/admin_menu.php:5787 lib/admin_menu.php:5854 lib/admin_menu.php:5921
+#: lib/admin_menu.php:5985 lib/admin_menu.php:6050 lib/admin_menu.php:6116
+#: lib/admin_menu.php:6181 lib/admin_menu.php:6245 lib/admin_menu.php:6310
+#: lib/admin_menu.php:6373 lib/admin_menu.php:6436 lib/admin_menu.php:6500
+#: lib/admin_menu.php:6538 lib/admin_menu.php:6592 lib/admin_menu.php:6645
+#: lib/admin_menu.php:6855 lib/admin_menu.php:6997
+msgid "Save Options"
+msgstr ""
+
+#: lib/admin_menu.php:764
+msgid "Enable Facebook Login:"
+msgstr ""
+
+#: lib/admin_menu.php:770
+msgid "Facebook App ID:"
+msgstr ""
+
+#: lib/admin_menu.php:776
+msgid "Facebook Secret Key:"
+msgstr ""
+
+#: lib/admin_menu.php:796
+msgid "Enable Twitter Login:"
+msgstr ""
+
+#: lib/admin_menu.php:802
+msgid "Twitter Consumer Key:"
+msgstr ""
+
+#: lib/admin_menu.php:808
+msgid "Twitter Consumer Secret:"
+msgstr ""
+
+#: lib/admin_menu.php:815
+msgid "Callback URL:"
+msgstr ""
+
+#: lib/admin_menu.php:886
+msgid "Google Analytics"
+msgstr ""
+
+#: lib/admin_menu.php:887
+msgid "Other Tracking Tools"
+msgstr ""
+
+#: lib/admin_menu.php:897
+msgid "Enable Google Analytics:"
+msgstr ""
+
+#: lib/admin_menu.php:903
+msgid "Analytics Code:"
+msgstr ""
+
+#: lib/admin_menu.php:927
+msgid "Enable Other Tracking:"
+msgstr ""
+
+#: lib/admin_menu.php:933
+msgid "Other Tracking Code:"
+msgstr ""
+
+#: lib/admin_menu.php:972
+msgid "Main Information"
+msgstr ""
+
+#: lib/admin_menu.php:973
+msgid "From SiteMile Blog"
+msgstr ""
+
+#: lib/admin_menu.php:982
+msgid "ProjectTheme Version:"
+msgstr ""
+
+#: lib/admin_menu.php:987
+msgid "ProjectTheme Latest Release:"
+msgstr ""
+
+#: lib/admin_menu.php:992
+msgid "WordPress Version:"
+msgstr ""
+
+#: lib/admin_menu.php:998
+msgid "Go to SiteMile official page:"
+msgstr ""
+
+#: lib/admin_menu.php:1003
+msgid "Go to Project official page:"
+msgstr ""
+
+#: lib/admin_menu.php:1008
+msgid "Go to support forums:"
+msgstr ""
+
+#: lib/admin_menu.php:1013
+msgid "Contact SiteMile Team:"
+msgstr ""
+
+#: lib/admin_menu.php:1018
+msgid "Like us on Facebook:"
+msgstr ""
+
+#: lib/admin_menu.php:1024
+msgid "Follow us on Twitter:"
+msgstr ""
+
+#: lib/admin_menu.php:1308 lib/my_account/outstanding_project.php:66
+msgid "There are no outstanding projects yet."
+msgstr ""
+
+#: lib/admin_menu.php:1453 lib/my_account/delivered_projects.php:77
+msgid "There are no delivered projects yet."
+msgstr ""
+
+#: lib/admin_menu.php:1603 lib/my_account/completed_projects.php:60
+msgid "There are no completed projects yet."
+msgstr ""
+
+#: lib/admin_menu.php:1757
+msgid "There are no paid projects yet."
+msgstr ""
+
+#: lib/admin_menu.php:2122
+msgid "All Private Messages"
+msgstr ""
+
+#: lib/admin_menu.php:2123 lib/admin_menu.php:2370 lib/admin_menu.php:2494
+#: lib/admin_menu.php:2568 lib/admin_menu.php:3792 lib/admin_menu.php:3879
+#: lib/admin_menu.php:3967
+msgid "Search User"
+msgstr ""
+
+#: lib/admin_menu.php:2153
+msgid "The message has been approved."
+msgstr ""
+
+#: lib/admin_menu.php:2163
+msgid "Are you sure you want to approve this message?"
+msgstr ""
+
+#: lib/admin_menu.php:2164
+msgid "Yes, Approve!"
+msgstr ""
+
+#: lib/admin_menu.php:2194
+msgid "The message has been deleted."
+msgstr ""
+
+#: lib/admin_menu.php:2204
+msgid "Are you sure you want to delete this message?"
+msgstr ""
+
+#: lib/admin_menu.php:2205
+msgid "Yes, Delete!"
+msgstr ""
+
+#: lib/admin_menu.php:2266 lib/admin_menu.php:2397
+msgid "Sender"
+msgstr ""
+
+#: lib/admin_menu.php:2267 lib/admin_menu.php:2398
+msgid "Receiver"
+msgstr ""
+
+#: lib/admin_menu.php:2268 lib/admin_menu.php:2399
+#: lib/my_account/private_messages.php:88
+#: lib/my_account/private_messages.php:142
+#: lib/my_account/private_messages.php:254
+#: lib/my_account/private_messages.php:372
+#: lib/my_account/private_messages.php:811
+msgid "Subject"
+msgstr ""
+
+#: lib/admin_menu.php:2269 lib/admin_menu.php:2400
+msgid "Sent On"
+msgstr ""
+
+#: lib/admin_menu.php:2298 lib/admin_menu.php:2433
+msgid "Approve"
+msgstr ""
+
+#: lib/admin_menu.php:2306 lib/admin_menu.php:2441
+#: lib/my_account/private_messages.php:561
+#, php-format
+msgid "File Attached: %s"
+msgstr ""
+
+#: lib/admin_menu.php:2353
+msgid "There are no private messages."
+msgstr ""
+
+#: lib/admin_menu.php:2371 lib/admin_menu.php:2569 lib/admin_menu.php:3793
+#: lib/admin_menu.php:3880 lib/admin_menu.php:3968 lib/provider_search.php:206
+msgid "Search"
+msgstr ""
+
+#: lib/admin_menu.php:2456 lib/admin_menu.php:3859 lib/admin_menu.php:3947
+#: lib/admin_menu.php:4033
+msgid "There are no results for your search."
+msgstr ""
+
+#: lib/admin_menu.php:2493
+msgid "All User Reviews"
+msgstr ""
+
+#: lib/admin_menu.php:2512 lib/admin_menu.php:2592 lib/admin_menu.php:5132
+msgid "Rated User"
+msgstr ""
+
+#: lib/admin_menu.php:2515 lib/admin_menu.php:2595 lib/bidding-panel.php:297
+#: lib/my_account/edit_project.php:1151
+#: lib/my_account/personal_information.php:295
+#: lib/my_account/repost_project.php:578 lib/my_account/reviews.php:274
+#: lib/post_new.php:118
+msgid "Description"
+msgstr ""
+
+#: lib/admin_menu.php:2516 lib/admin_menu.php:2596
+msgid "Awarded On"
+msgstr ""
+
+#: lib/admin_menu.php:2554 lib/admin_menu.php:2634
+msgid "There are no user feedback."
+msgstr ""
+
+#: lib/admin_menu.php:3290
+#, php-format
+msgid "Payment received from %s"
+msgstr ""
+
+#: lib/admin_menu.php:3294 lib/my_account/payments.php:100
+#, php-format
+msgid "Payment fee for project %s"
+msgstr ""
+
+#: lib/admin_menu.php:3304 lib/admin_menu.php:3317
+#: lib/my_account/payments.php:109 lib/my_account/payments.php:121
+msgid "Money Escrow Completed"
+msgstr ""
+
+#: lib/admin_menu.php:3305 lib/my_account/payments.php:110
+#, php-format
+msgid "You have released the escrow of: %s"
+msgstr ""
+
+#: lib/admin_menu.php:3318 lib/my_account/payments.php:122
+#, php-format
+msgid "You have received the amount of: %s"
+msgstr ""
+
+#: lib/admin_menu.php:3329
+msgid "Escrow completed!"
+msgstr ""
+
+#: lib/admin_menu.php:3358
+msgid "Escrow closed!"
+msgstr ""
+
+#: lib/admin_menu.php:3572 lib/admin_menu.php:3573
+#, php-format
+msgid "Your withdrawal has been completed: %s"
+msgstr ""
+
+#: lib/admin_menu.php:3578
+#, php-format
+msgid "Withdraw to PayPal to email: %s"
+msgstr ""
+
+#: lib/admin_menu.php:3588
+msgid "Unresolved Requests"
+msgstr ""
+
+#: lib/admin_menu.php:3589
+msgid "Resolved Requests"
+msgstr ""
+
+#: lib/admin_menu.php:3590
+msgid "Rejected Requests"
+msgstr ""
+
+#: lib/admin_menu.php:3591
+msgid "Search Unresolved"
+msgstr ""
+
+#: lib/admin_menu.php:3592
+msgid "Search Solved"
+msgstr ""
+
+#: lib/admin_menu.php:3593
+msgid "Search Rejected"
+msgstr ""
+
+#: lib/admin_menu.php:3610 lib/admin_menu.php:3674 lib/admin_menu.php:3820
+#: lib/admin_menu.php:3908 lib/admin_menu.php:3996
+msgid "Method"
+msgstr ""
+
+#: lib/admin_menu.php:3611 lib/admin_menu.php:3675 lib/admin_menu.php:3739
+#: lib/admin_menu.php:3821 lib/admin_menu.php:3909 lib/admin_menu.php:3997
+msgid "Details"
+msgstr ""
+
+#: lib/admin_menu.php:3612 lib/admin_menu.php:3676 lib/admin_menu.php:3740
+#: lib/admin_menu.php:3822 lib/admin_menu.php:3910 lib/admin_menu.php:3998
+msgid "Date Requested"
+msgstr ""
+
+#: lib/admin_menu.php:3613 lib/admin_menu.php:3677 lib/admin_menu.php:3741
+#: lib/admin_menu.php:3823 lib/admin_menu.php:3911 lib/admin_menu.php:3999
+#: lib/my_account/payments.php:375
+msgid "Amount"
+msgstr ""
+
+#: lib/admin_menu.php:3636 lib/admin_menu.php:3702 lib/admin_menu.php:3846
+#: lib/admin_menu.php:3934
+msgid "Make Complete"
+msgstr ""
+
+#: lib/admin_menu.php:3637 lib/admin_menu.php:3703 lib/admin_menu.php:3847
+#: lib/admin_menu.php:3935
+msgid "Deny Request"
+msgstr ""
+
+#: lib/admin_menu.php:3637 lib/admin_menu.php:3703 lib/admin_menu.php:3847
+#: lib/admin_menu.php:3935
+msgid "Completed"
+msgstr ""
+
+#: lib/admin_menu.php:3637 lib/admin_menu.php:3703 lib/admin_menu.php:3763
+#: lib/admin_menu.php:3847 lib/admin_menu.php:3935
+msgid "Rejected"
+msgstr ""
+
+#: lib/admin_menu.php:3649
+msgid "There are no unresolved withdrawal requests."
+msgstr ""
+
+#: lib/admin_menu.php:3678 lib/admin_menu.php:3742
+msgid "Date Released"
+msgstr ""
+
+#: lib/admin_menu.php:3715
+msgid "There are no resolved withdrawal requests."
+msgstr ""
+
+#: lib/admin_menu.php:3776
+msgid "There are no rejected withdrawal requests."
+msgstr ""
+
+#: lib/admin_menu.php:4142
+msgid "Bank Payment(offline)"
+msgstr ""
+
+#: lib/admin_menu.php:4153 lib/admin_menu.php:4240 lib/admin_menu.php:4269
+#: lib/admin_menu.php:4303
+msgid "Enable:"
+msgstr ""
+
+#: lib/admin_menu.php:4159
+msgid "PayPal Enable Sandbox:"
+msgstr ""
+
+#: lib/admin_menu.php:4165
+msgid "PayPal Email Address:"
+msgstr ""
+
+#: lib/admin_menu.php:4171
+msgid "Enable PayPal Adaptive:"
+msgstr ""
+
+#: lib/admin_menu.php:4177
+msgid "Signature:"
+msgstr ""
+
+#: lib/admin_menu.php:4182
+msgid "API Password:"
+msgstr ""
+
+#: lib/admin_menu.php:4187
+msgid "API User:"
+msgstr ""
+
+#: lib/admin_menu.php:4192
+msgid "Application ID:"
+msgstr ""
+
+#: lib/admin_menu.php:4246
+msgid "Payza/Alertpay Email:"
+msgstr ""
+
+#: lib/admin_menu.php:4275
+msgid "MoneyBookers Email:"
+msgstr ""
+
+#: lib/admin_menu.php:4309
+msgid "Your Bank Details:"
+msgstr ""
+
+#: lib/admin_menu.php:4415 lib/admin_menu.php:4417 lib/admin_menu.php:4751
+msgid "HomePage"
+msgstr ""
+
+#: lib/admin_menu.php:4416
+msgid "Header"
+msgstr ""
+
+#: lib/admin_menu.php:4418
+msgid "Footer"
+msgstr ""
+
+#: lib/admin_menu.php:4419
+msgid "Change Colors"
+msgstr ""
+
+#: lib/admin_menu.php:4430
+msgid "Main Tag Line:"
+msgstr ""
+
+#: lib/admin_menu.php:4437
+msgid "Secondary Tag Line:"
+msgstr ""
+
+#: lib/admin_menu.php:4446
+msgid "Button1 Caption:"
+msgstr ""
+
+#: lib/admin_menu.php:4452
+msgid "Button1 Link:"
+msgstr ""
+
+#: lib/admin_menu.php:4461
+msgid "Button2 Caption:"
+msgstr ""
+
+#: lib/admin_menu.php:4468
+msgid "Button2 Link:"
+msgstr ""
+
+#: lib/admin_menu.php:4496
+msgid "Color for background:"
+msgstr ""
+
+#: lib/admin_menu.php:4521
+msgid "Color for footer:"
+msgstr ""
+
+#: lib/admin_menu.php:4528
+msgid "Color for top links:"
+msgstr ""
+
+#: lib/admin_menu.php:4553
+msgid "The layout of the homepage."
+msgstr ""
+
+#: lib/admin_menu.php:4554
+msgid "Choose from the home page layouts available:"
+msgstr ""
+
+#: lib/admin_menu.php:4558
+msgid "Content + Right Sidebar:"
+msgstr ""
+
+#: lib/admin_menu.php:4566
+msgid "Content + Left Sidebar + Right Sidebar:"
+msgstr ""
+
+#: lib/admin_menu.php:4574
+msgid "Left Sidebar + Content + Right Sidebar:"
+msgstr ""
+
+#: lib/admin_menu.php:4582
+msgid "Left Sidebar + Content:"
+msgstr ""
+
+#: lib/admin_menu.php:4590
+msgid "Content:"
+msgstr ""
+
+#: lib/admin_menu.php:4640
+msgid "Eg: http://your-site-url.com/images/logo.jpg"
+msgstr ""
+
+#: lib/admin_menu.php:4641
+msgid "Logo URL:"
+msgstr ""
+
+#: lib/admin_menu.php:4645
+msgid "Upload/Select Logo File"
+msgstr ""
+
+#: lib/admin_menu.php:4668
+msgid "This will appear in the left side of the footer area."
+msgstr ""
+
+#: lib/admin_menu.php:4669
+msgid "Left side footer area content:"
+msgstr ""
+
+#: lib/admin_menu.php:4675
+msgid "This will appear in the right side of the footer area."
+msgstr ""
+
+#: lib/admin_menu.php:4676
+msgid "Right side footer area content:"
+msgstr ""
+
+#: lib/admin_menu.php:4707
+msgid "Advertising Spaces"
+msgstr ""
+
+#: lib/admin_menu.php:4752
+msgid "Project Single Page"
+msgstr ""
+
+#: lib/admin_menu.php:4753
+msgid "Category Page"
+msgstr ""
+
+#: lib/admin_menu.php:4754
+msgid "Single Blog/Normal Page"
+msgstr ""
+
+#: lib/admin_menu.php:4760 lib/admin_menu.php:4785 lib/admin_menu.php:4809
+#: lib/admin_menu.php:4833
+msgid "Above the content area:"
+msgstr ""
+
+#: lib/admin_menu.php:4766 lib/admin_menu.php:4791 lib/admin_menu.php:4815
+#: lib/admin_menu.php:4839
+msgid "Below the content area:"
+msgstr ""
+
+#: lib/admin_menu.php:5108
+msgid "New User Email"
+msgstr ""
+
+#: lib/admin_menu.php:5109
+msgid "New User Email (admin)"
+msgstr ""
+
+#: lib/admin_menu.php:5111
+msgid "Post Project Not Approved Email (admin)"
+msgstr ""
+
+#: lib/admin_menu.php:5112
+msgid "Post Project Auto Approved Email (admin)"
+msgstr ""
+
+#: lib/admin_menu.php:5113
+msgid "Post Project Not Approved Email"
+msgstr ""
+
+#: lib/admin_menu.php:5114
+msgid "Post Project Auto Approved Email"
+msgstr ""
+
+#: lib/admin_menu.php:5118
+msgid "Delivered Project (owner)"
+msgstr ""
+
+#: lib/admin_menu.php:5119
+msgid "Delivered Project (bidder)"
+msgstr ""
+
+#: lib/admin_menu.php:5123
+msgid "Completed Project (owner)"
+msgstr ""
+
+#: lib/admin_menu.php:5124
+msgid "Completed Project (bidder)"
+msgstr ""
+
+#: lib/admin_menu.php:5127
+msgid "Escrow Sent (owner)"
+msgstr ""
+
+#: lib/admin_menu.php:5128
+msgid "Escrow Sent (bidder)"
+msgstr ""
+
+#: lib/admin_menu.php:5131
+msgid "Private Message Received"
+msgstr ""
+
+#: lib/admin_menu.php:5135
+msgid "Won Project(owner)"
+msgstr ""
+
+#: lib/admin_menu.php:5136
+msgid "Won Project(winner)"
+msgstr ""
+
+#: lib/admin_menu.php:5137
+msgid "Won Project(losers)"
+msgstr ""
+
+#: lib/admin_menu.php:5139
+msgid "Bid Project(bidder)"
+msgstr ""
+
+#: lib/admin_menu.php:5140
+msgid "Bid Project(owner)"
+msgstr ""
+
+#: lib/admin_menu.php:5142
+msgid "Message Board(owner)"
+msgstr ""
+
+#: lib/admin_menu.php:5143
+msgid "Message Board(bidder)"
+msgstr ""
+
+#: lib/admin_menu.php:5147
+msgid "Project Subscription Notification"
+msgstr ""
+
+#: lib/admin_menu.php:5148
+msgid "Payment on Completed Project (owner)"
+msgstr ""
+
+#: lib/admin_menu.php:5159
+msgid ""
+"This email will be received by the provider/bidder when the project owner "
+"puts the money into escrow.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:5170 lib/admin_menu.php:5233 lib/admin_menu.php:5296
+#: lib/admin_menu.php:5361 lib/admin_menu.php:5426 lib/admin_menu.php:5489
+#: lib/admin_menu.php:5552 lib/admin_menu.php:5617 lib/admin_menu.php:5681
+#: lib/admin_menu.php:5746 lib/admin_menu.php:5810 lib/admin_menu.php:5878
+#: lib/admin_menu.php:5943 lib/admin_menu.php:6009 lib/admin_menu.php:6075
+#: lib/admin_menu.php:6138 lib/admin_menu.php:6202 lib/admin_menu.php:6270
+#: lib/admin_menu.php:6333 lib/admin_menu.php:6397 lib/admin_menu.php:6461
+msgid "Enable this email:"
+msgstr ""
+
+#: lib/admin_menu.php:5176 lib/admin_menu.php:5239 lib/admin_menu.php:5302
+#: lib/admin_menu.php:5368 lib/admin_menu.php:5432 lib/admin_menu.php:5495
+#: lib/admin_menu.php:5558 lib/admin_menu.php:5623 lib/admin_menu.php:5687
+#: lib/admin_menu.php:5752 lib/admin_menu.php:5816 lib/admin_menu.php:5884
+#: lib/admin_menu.php:5949 lib/admin_menu.php:6015 lib/admin_menu.php:6081
+#: lib/admin_menu.php:6144 lib/admin_menu.php:6208 lib/admin_menu.php:6276
+#: lib/admin_menu.php:6339 lib/admin_menu.php:6403 lib/admin_menu.php:6467
+#: lib/admin_menu.php:6558 lib/admin_menu.php:6613
+msgid "Email Subject:"
+msgstr ""
+
+#: lib/admin_menu.php:5184 lib/admin_menu.php:5247 lib/admin_menu.php:5310
+#: lib/admin_menu.php:5376 lib/admin_menu.php:5440 lib/admin_menu.php:5503
+#: lib/admin_menu.php:5566 lib/admin_menu.php:5631 lib/admin_menu.php:5696
+#: lib/admin_menu.php:5760 lib/admin_menu.php:5824 lib/admin_menu.php:5892
+#: lib/admin_menu.php:5957 lib/admin_menu.php:6023 lib/admin_menu.php:6089
+#: lib/admin_menu.php:6152 lib/admin_menu.php:6216 lib/admin_menu.php:6284
+#: lib/admin_menu.php:6347 lib/admin_menu.php:6411 lib/admin_menu.php:6475
+#: lib/admin_menu.php:6566 lib/admin_menu.php:6621
+msgid "Email Content:"
+msgstr ""
+
+#: lib/admin_menu.php:5194 lib/admin_menu.php:5257 lib/admin_menu.php:5320
+#: lib/admin_menu.php:5386 lib/admin_menu.php:5450 lib/admin_menu.php:5513
+#: lib/admin_menu.php:5576 lib/admin_menu.php:5641 lib/admin_menu.php:5706
+#: lib/admin_menu.php:5770 lib/admin_menu.php:5834 lib/admin_menu.php:5902
+#: lib/admin_menu.php:5967 lib/admin_menu.php:6033 lib/admin_menu.php:6099
+#: lib/admin_menu.php:6162 lib/admin_menu.php:6226 lib/admin_menu.php:6294
+#: lib/admin_menu.php:6357 lib/admin_menu.php:6421 lib/admin_menu.php:6485
+#: lib/admin_menu.php:6577 lib/admin_menu.php:6631
+msgid "Here is a list of tags you can use in this email:"
+msgstr ""
+
+#: lib/admin_menu.php:5196 lib/admin_menu.php:5388 lib/admin_menu.php:5515
+msgid "Bidder's Username"
+msgstr ""
+
+#: lib/admin_menu.php:5197 lib/admin_menu.php:5260 lib/admin_menu.php:5323
+#: lib/admin_menu.php:5389 lib/admin_menu.php:5453 lib/admin_menu.php:5516
+#: lib/admin_menu.php:5579 lib/admin_menu.php:5644 lib/admin_menu.php:5709
+#: lib/admin_menu.php:5773 lib/admin_menu.php:5837 lib/admin_menu.php:5906
+#: lib/admin_menu.php:5971 lib/admin_menu.php:6036 lib/admin_menu.php:6102
+#: lib/admin_menu.php:6165 lib/admin_menu.php:6229 lib/admin_menu.php:6297
+#: lib/admin_menu.php:6360 lib/admin_menu.php:6423 lib/admin_menu.php:6487
+#: lib/admin_menu.php:6582 lib/admin_menu.php:6635
+msgid "the link to your user login page"
+msgstr ""
+
+#: lib/admin_menu.php:5198 lib/admin_menu.php:5261 lib/admin_menu.php:5324
+#: lib/admin_menu.php:5390 lib/admin_menu.php:5454 lib/admin_menu.php:5517
+#: lib/admin_menu.php:5580 lib/admin_menu.php:5645 lib/admin_menu.php:5710
+#: lib/admin_menu.php:5774 lib/admin_menu.php:5838 lib/admin_menu.php:5907
+#: lib/admin_menu.php:5972 lib/admin_menu.php:6037 lib/admin_menu.php:6103
+#: lib/admin_menu.php:6166 lib/admin_menu.php:6230 lib/admin_menu.php:6298
+#: lib/admin_menu.php:6361 lib/admin_menu.php:6424 lib/admin_menu.php:6488
+#: lib/admin_menu.php:6583 lib/admin_menu.php:6636
+msgid "your website's name"
+msgstr ""
+
+#: lib/admin_menu.php:5199 lib/admin_menu.php:5262 lib/admin_menu.php:5325
+#: lib/admin_menu.php:5391 lib/admin_menu.php:5455 lib/admin_menu.php:5518
+#: lib/admin_menu.php:5581 lib/admin_menu.php:5646 lib/admin_menu.php:5711
+#: lib/admin_menu.php:5775 lib/admin_menu.php:5839 lib/admin_menu.php:5908
+#: lib/admin_menu.php:5973 lib/admin_menu.php:6038 lib/admin_menu.php:6104
+#: lib/admin_menu.php:6167 lib/admin_menu.php:6231 lib/admin_menu.php:6299
+#: lib/admin_menu.php:6362 lib/admin_menu.php:6425 lib/admin_menu.php:6489
+#: lib/admin_menu.php:6584 lib/admin_menu.php:6637
+msgid "your website's main address"
+msgstr ""
+
+#: lib/admin_menu.php:5200 lib/admin_menu.php:5263 lib/admin_menu.php:5326
+#: lib/admin_menu.php:5392 lib/admin_menu.php:5456 lib/admin_menu.php:5519
+#: lib/admin_menu.php:5582 lib/admin_menu.php:5647 lib/admin_menu.php:5712
+#: lib/admin_menu.php:5776 lib/admin_menu.php:5840 lib/admin_menu.php:5909
+#: lib/admin_menu.php:5974 lib/admin_menu.php:6039 lib/admin_menu.php:6105
+#: lib/admin_menu.php:6169 lib/admin_menu.php:6233 lib/admin_menu.php:6300
+#: lib/admin_menu.php:6363 lib/admin_menu.php:6426 lib/admin_menu.php:6490
+msgid "your website's my account link"
+msgstr ""
+
+#: lib/admin_menu.php:5201 lib/admin_menu.php:5264 lib/admin_menu.php:5327
+#: lib/admin_menu.php:5393 lib/admin_menu.php:5457 lib/admin_menu.php:5520
+#: lib/admin_menu.php:5583 lib/admin_menu.php:5648 lib/admin_menu.php:5713
+#: lib/admin_menu.php:5777 lib/admin_menu.php:5841 lib/admin_menu.php:5910
+#: lib/admin_menu.php:5975 lib/admin_menu.php:6040 lib/admin_menu.php:6106
+#: lib/admin_menu.php:6170 lib/admin_menu.php:6234 lib/admin_menu.php:6301
+#: lib/admin_menu.php:6364 lib/admin_menu.php:6427 lib/admin_menu.php:6491
+msgid "new new project's title"
+msgstr ""
+
+#: lib/admin_menu.php:5202 lib/admin_menu.php:5265 lib/admin_menu.php:5328
+#: lib/admin_menu.php:5394 lib/admin_menu.php:5458 lib/admin_menu.php:5521
+#: lib/admin_menu.php:5584 lib/admin_menu.php:5649 lib/admin_menu.php:5714
+#: lib/admin_menu.php:5778 lib/admin_menu.php:5842 lib/admin_menu.php:5911
+#: lib/admin_menu.php:5976 lib/admin_menu.php:6041 lib/admin_menu.php:6107
+#: lib/admin_menu.php:6171 lib/admin_menu.php:6235 lib/admin_menu.php:6302
+#: lib/admin_menu.php:6365 lib/admin_menu.php:6428 lib/admin_menu.php:6492
+msgid "link for the new project"
+msgstr ""
+
+#: lib/admin_menu.php:5203
+msgid "amount of escrow"
+msgstr ""
+
+#: lib/admin_menu.php:5222
+msgid ""
+"This email will be received by the owner of the project when he places the "
+"funds into escrow.\n"
+"\t\t          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"\t\t          Also at the bottom you can see a list of tags you can use in "
+"the email body."
+msgstr ""
+
+#: lib/admin_menu.php:5259 lib/admin_menu.php:5322 lib/admin_menu.php:5452
+#: lib/admin_menu.php:6164 lib/admin_menu.php:6228
+msgid "Project Owner's Username"
+msgstr ""
+
+#: lib/admin_menu.php:5266
+msgid "amount"
+msgstr ""
+
+#: lib/admin_menu.php:5285
+msgid ""
+"This email will be received by the owner of the project after he accepts the "
+"project as delivered.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:5350
+msgid ""
+"This email will be received by the bidder/provider after the owner of the "
+"projects accepts the project as delivered.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:5415
+msgid ""
+"This email will be received by the owner of the project when the provider "
+"marks the project as completed.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:5478
+msgid ""
+"This email will be received by the provider/bidder when he marks the project "
+"as completed.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:5541
+msgid ""
+"This email will be received by any user when another user sends a private "
+"message.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:5585
+msgid "sender username"
+msgstr ""
+
+#: lib/admin_menu.php:5586
+msgid "receiver username"
+msgstr ""
+
+#: lib/admin_menu.php:5606
+msgid ""
+"This email will be received by the freshly rated user.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:5643 lib/admin_menu.php:5708 lib/admin_menu.php:5772
+msgid "Winner Bidder's Username"
+msgstr ""
+
+#: lib/admin_menu.php:5650
+msgid "rating value"
+msgstr ""
+
+#: lib/admin_menu.php:5651
+msgid "rating comment"
+msgstr ""
+
+#: lib/admin_menu.php:5670
+msgid ""
+"This email will be received by the project owner after he awards the project "
+"to a certain bidder.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:5715 lib/admin_menu.php:5779 lib/admin_menu.php:5846
+msgid "winner bid value"
+msgstr ""
+
+#: lib/admin_menu.php:5716
+msgid "winner bidder username"
+msgstr ""
+
+#: lib/admin_menu.php:5735
+msgid ""
+"This email will be received by the winner bidder when the project is won.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:5799
+msgid ""
+"This email will be received by the loser bidders when the project is won.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:5836
+msgid "Loser Bidder's Username"
+msgstr ""
+
+#: lib/admin_menu.php:5843 lib/admin_menu.php:6042 lib/admin_menu.php:6173
+#: lib/admin_menu.php:6237
+msgid "the bid value"
+msgstr ""
+
+#: lib/admin_menu.php:5845
+msgid "winner bid username"
+msgstr ""
+
+#: lib/admin_menu.php:5867
+msgid ""
+"This email will be received by the message owner when the project owner "
+"posts a new message on the private messaging board.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:5904 lib/admin_menu.php:6101
+msgid "Receiver Username"
+msgstr ""
+
+#: lib/admin_menu.php:5905 lib/admin_menu.php:5969
+msgid "Project Owner Username"
+msgstr ""
+
+#: lib/admin_menu.php:5932
+msgid ""
+"This email will be received by the owner of a project when someone is "
+"posting a new message on the private messaging board.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:5970
+msgid "Message Owner Username"
+msgstr ""
+
+#: lib/admin_menu.php:5998
+msgid ""
+"This email will be received by the bidder when he posts a bid for a "
+"project.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:6035
+msgid "Project Bidder's Username"
+msgstr ""
+
+#: lib/admin_menu.php:6064
+msgid ""
+"This email will be received by all users subscribed for a certain category "
+"when a project gets posted.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:6127
+msgid ""
+"This email will be received by the project owner when he pays the service "
+"provider.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:6172 lib/admin_menu.php:6236
+msgid "the bidder username"
+msgstr ""
+
+#: lib/admin_menu.php:6191
+msgid ""
+"This email will be received by the project owner whenever a user bids for "
+"his project.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:6259
+msgid ""
+"This email will be received by your users after posting a new project on "
+"your website if the project is automatically approved.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:6296
+msgid "username"
+msgstr ""
+
+#: lib/admin_menu.php:6322
+msgid ""
+"This email will be received by your users after posting a new project on "
+"your website if the project is not automatically approved.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:6359
+msgid "project owner username"
+msgstr ""
+
+#: lib/admin_menu.php:6386
+msgid ""
+"This email will be received by the admin when someone posts a project on the "
+"website to be approved.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:6450
+msgid ""
+"This email will be received by the admin when someone posts a project on the "
+"website website. This email will be received if the the project is not "
+"automatically approved.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:6548
+msgid ""
+"This email will be received by all new users who register on your website.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:6579 lib/admin_menu.php:6633
+msgid "your new username"
+msgstr ""
+
+#: lib/admin_menu.php:6580 lib/admin_menu.php:6634
+msgid "your new user's email"
+msgstr ""
+
+#: lib/admin_menu.php:6581
+msgid "your new user's password"
+msgstr ""
+
+#: lib/admin_menu.php:6603
+msgid ""
+"This email will be received by the admin when a new user registers on the "
+"website.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: lib/admin_menu.php:6742
+msgid "Comma (,)"
+msgstr ""
+
+#: lib/admin_menu.php:6742
+msgid "Point (.)"
+msgstr ""
+
+#: lib/admin_menu.php:6743
+msgid "In front of sum (eg: $50)"
+msgstr ""
+
+#: lib/admin_menu.php:6743
+msgid "After the sum (eg: 50$)"
+msgstr ""
+
+#: lib/admin_menu.php:6808
+msgid "Main Details"
+msgstr ""
+
+#: lib/admin_menu.php:6809
+msgid "Project Fees"
+msgstr ""
+
+#: lib/admin_menu.php:6810
+msgid "Project Budgets"
+msgstr ""
+
+#: lib/admin_menu.php:6819
+msgid "Site currency:"
+msgstr ""
+
+#: lib/admin_menu.php:6826
+msgid "Currency symbol:"
+msgstr ""
+
+#: lib/admin_menu.php:6832
+msgid "Currency symbol position:"
+msgstr ""
+
+#: lib/admin_menu.php:6839
+msgid "Decimals sum separator:"
+msgstr ""
+
+#: lib/admin_menu.php:6845
+msgid "Thousands sum separator:"
+msgstr ""
+
+#: lib/admin_menu.php:6952
+msgid "Base Listing Fee:"
+msgstr ""
+
+#: lib/admin_menu.php:6959
+msgid "Featured Listing Fee:"
+msgstr ""
+
+#: lib/admin_menu.php:6966
+msgid "Sealed Bidding Fee:"
+msgstr ""
+
+#: lib/admin_menu.php:6973
+msgid "Hide Project from Search Engines Fee:"
+msgstr ""
+
+#: lib/admin_menu.php:6980
+msgid "Fee Taken out of Each Project: "
+msgstr ""
+
+#: lib/admin_menu.php:6989
+msgid "Minimum Withdraw:"
+msgstr ""
+
+#: lib/advanced_search.php:193 lib/provider_search.php:188
+msgid "Filter Options"
+msgstr ""
+
+#: lib/advanced_search.php:200
+msgid "Keyword"
+msgstr ""
+
+#: lib/advanced_search.php:211 lib/my_account/edit_project.php:1025
+#: lib/my_account/personal_information.php:270 lib/post_new.php:384
+msgid "Select Location"
+msgstr ""
+
+#: lib/advanced_search.php:215 lib/my_account/edit_project.php:635
+#: lib/my_account/repost_project.php:272 lib/post_new.php:1123
+#: single-project.php:666
+msgid "Category"
+msgstr ""
+
+#: lib/advanced_search.php:216 lib/my_account/edit_project.php:658
+#: lib/post_new.php:202
+msgid "Select Category"
+msgstr ""
+
+#: lib/advanced_search.php:224
+msgid "Featured?"
+msgstr ""
+
+#: lib/advanced_search.php:232
+msgid "Refine Search"
+msgstr ""
+
+#: lib/advanced_search.php:275
+msgid "Order by:"
+msgstr ""
+
+#: lib/advanced_search.php:289
+msgid "Name"
+msgstr ""
+
+#: lib/advanced_search.php:290
+msgid "Visits"
+msgstr ""
+
+#: lib/advanced_search.php:371
+msgid "<< Previous"
+msgstr ""
+
+#: lib/advanced_search.php:398
+msgid "Next >>"
+msgstr ""
+
+#: lib/all-posted-projects.php:53
+msgid "There are no projects posted."
+msgstr ""
+
+#: lib/bidding-panel.php:6 lib/message-board.php:17
+#, php-format
+msgid ""
+"You are not logged in. In order to bid please <a href=\"%s\">login</a> or <a "
+"href=\"%s\">register</a> an account"
+msgstr ""
+
+#: lib/bidding-panel.php:28
+msgid "You cannot submit proposals to your own projects."
+msgstr ""
+
+#: lib/bidding-panel.php:68
+msgid "Please accept you can do the work."
+msgstr ""
+
+#: lib/bidding-panel.php:74
+msgid "Please type in the number of days."
+msgstr ""
+
+#: lib/bidding-panel.php:80
+msgid "Please type in a bid value."
+msgstr ""
+
+#: lib/bidding-panel.php:93
+msgid "Submit Your Proposal"
+msgstr ""
+
+#: lib/bidding-panel.php:120
+#, php-format
+msgid ""
+"You need to have at least %s in your account to bid. <a href=\"%s\">Click "
+"here</a> to deposit money."
+msgstr ""
+
+#: lib/bidding-panel.php:133
+msgid "Your Bid"
+msgstr ""
+
+#: lib/bidding-panel.php:145 lib/post_new.php:1282
+msgid "Days to Complete"
+msgstr ""
+
+#: lib/bidding-panel.php:159 lib/my_account/edit_project.php:864
+#: lib/my_account/repost_project.php:387 lib/post_new.php:564
+msgid "Attach Files"
+msgstr ""
+
+#: lib/bidding-panel.php:312
+msgid "I can perform work where/when described in post."
+msgstr ""
+
+#: lib/bidding-panel.php:320
+msgid "Place Bid"
+msgstr ""
+
+#: lib/blog_page.php:50 lib/blog_posts.php:47
+msgid "There are no posts."
+msgstr ""
+
+#: lib/blog_posts.php:25
+msgid "All Blog Posts"
+msgstr ""
+
+#: lib/choose_user_tp.php:51
+msgid "Choose your user type"
+msgstr ""
+
+#: lib/choose_user_tp.php:74
+msgid "Choose User Type"
+msgstr ""
+
+#: lib/choose_winner.php:150
+#, php-format
+msgid "Choose Winner for your project: %s"
+msgstr ""
+
+#: lib/choose_winner.php:174
+#, php-format
+msgid "You are about to choose a winner for your project: %s"
+msgstr ""
+
+#: lib/choose_winner.php:182
+msgid "Yes, Choose winner Now!"
+msgstr ""
+
+#: lib/gateways/alert_ipn.php:145
+msgid "Deposit through Payza."
+msgstr ""
+
+#: lib/gateways/bank.php:7 lib/gateways/credits.php:7
+msgid "Pay for your job"
+msgstr ""
+
+#: lib/gateways/bank.php:107 lib/gateways/credits.php:107
+#, php-format
+msgid "Payment for job: %s"
+msgstr ""
+
+#: lib/gateways/bank.php:154 lib/gateways/credits.php:157
+#: lib/gateways/moneybookers_response.php:135
+#: lib/gateways/paypal_response.php:139 lib/gateways/payza_response.php:183
+msgid "Delivered"
+msgstr ""
+
+#: lib/gateways/bank.php:166 lib/gateways/credits.php:169
+#: lib/gateways/moneybookers_response.php:148
+#: lib/gateways/paypal_response.php:152 lib/gateways/payza_response.php:196
+#, php-format
+msgid "A new job has been purchased on your site: <a href=\"%s\">%s</a>"
+msgstr ""
+
+#: lib/gateways/bank.php:169 lib/gateways/credits.php:172
+#: lib/gateways/moneybookers_response.php:151
+#: lib/gateways/paypal_response.php:155 lib/gateways/payza_response.php:199
+#, php-format
+msgid "New Job Purchased on your site - %s"
+msgstr ""
+
+#: lib/gateways/bank.php:188
+msgid "Purchase job, and pay by bank"
+msgstr ""
+
+#: lib/gateways/bank.php:191
+msgid "You have can see the bank details below."
+msgstr ""
+
+#: lib/gateways/credits.php:191
+msgid "Purchase with your balance"
+msgstr ""
+
+#: lib/gateways/credits.php:194
+#, php-format
+msgid ""
+"You have %s in your balance. Click confirm now to pay using your balance."
+msgstr ""
+
+#: lib/gateways/credits.php:196
+msgid "Confirm Purchase"
+msgstr ""
+
+#: lib/gateways/credits_listing.php:21
+msgid "Pay by Virtual Currency"
+msgstr ""
+
+#: lib/gateways/credits_listing.php:95 lib/gateways/moneybookers_listing.php:43
+#: lib/gateways/paypal_listing.php:71 lib/gateways/payza_listing.php:43
+#: lib/my_account/edit_project.php:230 lib/my_account/relist_this_done.php:206
+#: lib/post_new.php:1890
+msgid "Base Fee"
+msgstr ""
+
+#: lib/gateways/credits_listing.php:105
+#: lib/gateways/moneybookers_listing.php:54 lib/gateways/paypal_listing.php:82
+#: lib/gateways/payza_listing.php:54 lib/my_account/edit_project.php:240
+#: lib/my_account/relist_this_done.php:213 lib/post_new.php:1900
+msgid "Extra Images Fee"
+msgstr ""
+
+#: lib/gateways/credits_listing.php:120
+#: lib/gateways/moneybookers_listing.php:78 lib/gateways/paypal_listing.php:106
+#: lib/gateways/payza_listing.php:78 lib/my_account/edit_project.php:265
+#: lib/my_account/relist_this_done.php:219 lib/post_new.php:1914
+msgid "Featured Fee"
+msgstr ""
+
+#: lib/gateways/credits_listing.php:138
+#: lib/gateways/moneybookers_listing.php:108
+#: lib/gateways/paypal_listing.php:137 lib/gateways/payza_listing.php:108
+#: lib/my_account/edit_project.php:295 lib/my_account/relist_this_done.php:226
+#: lib/post_new.php:1930
+msgid "Sealed Bidding Fee"
+msgstr ""
+
+#: lib/gateways/credits_listing.php:155
+#: lib/gateways/moneybookers_listing.php:139
+#: lib/gateways/paypal_listing.php:168 lib/gateways/payza_listing.php:139
+#: lib/my_account/edit_project.php:326 lib/post_new.php:1945
+msgid "Hide Project From Search Engines Fee"
+msgstr ""
+
+#: lib/gateways/credits_listing.php:189
+#, php-format
+msgid "List Item - %s"
+msgstr ""
+
+#: lib/gateways/credits_listing.php:235
+msgid "You do not have enough credits to pay for listing this project."
+msgstr ""
+
+#: lib/gateways/credits_listing.php:244 lib/gateways/credits_listing.php:403
+#: lib/my_account/pay_with_credits.php:66
+#: lib/my_account/pay_with_credits.php:90 lib/my_account/payments.php:518
+msgid "Add More Credits"
+msgstr ""
+
+#: lib/gateways/credits_listing.php:262
+#, php-format
+msgid "Listing payment for project <a href=\"%s\">%s</a>"
+msgstr ""
+
+#: lib/gateways/credits_listing.php:345
+#, php-format
+msgid "Your payment has been sent. Return to <a href=\"%s\">your account</a>."
+msgstr ""
+
+#: lib/gateways/credits_listing.php:381 lib/my_account/relist_this_done.php:251
+#: lib/post_new.php:2067
+msgid "Total to Pay"
+msgstr ""
+
+#: lib/gateways/credits_listing.php:391 lib/my_account/pay_with_credits.php:87
+msgid "Your credits amount"
+msgstr ""
+
+#: lib/gateways/credits_listing.php:392 lib/my_account/pay_with_credits.php:88
+msgid "Pay Now"
+msgstr ""
+
+#: lib/gateways/mb_deposit_pay.php:30 lib/gateways/moneybookers.php:59
+#: lib/gateways/moneybookers_listing.php:179
+#: lib/gateways/pay_listing_moneybookers.php:27
+#: lib/gateways/pay_listing_payza.php:27 lib/gateways/payza.php:57
+#: lib/gateways/payza_deposit_pay.php:28 lib/gateways/payza_listing.php:179
+msgid "Please wait, your order is being processed..."
+msgstr ""
+
+#: lib/gateways/mb_deposit_response.php:27
+msgid "Deposit through Moneybookers."
+msgstr ""
+
+#: lib/gateways/moneybookers_listing.php:35 lib/gateways/paypal_listing.php:63
+#: lib/gateways/payza_listing.php:35 lib/my_account/edit_project.php:222
+msgid "Cost for base fee"
+msgstr ""
+
+#: lib/gateways/moneybookers_listing.php:70 lib/gateways/paypal_listing.php:98
+#: lib/gateways/payza_listing.php:70 lib/my_account/edit_project.php:257
+msgid "Cost to make project featured"
+msgstr ""
+
+#: lib/gateways/moneybookers_listing.php:100
+#: lib/gateways/paypal_listing.php:129 lib/gateways/payza_listing.php:100
+#: lib/my_account/edit_project.php:287
+msgid "Cost to add sealed bidding"
+msgstr ""
+
+#: lib/gateways/moneybookers_listing.php:131
+#: lib/gateways/paypal_listing.php:160 lib/gateways/payza_listing.php:131
+#: lib/my_account/edit_project.php:318
+msgid "Cost to hide project from search engines"
+msgstr ""
+
+#: lib/gateways/pay_featured_listing_credits.php:5
+msgid "Pay for featured job"
+msgstr ""
+
+#: lib/gateways/pay_featured_listing_credits.php:35
+#, php-format
+msgid "Pay for job: %s"
+msgstr ""
+
+#: lib/gateways/pay_featured_listing_credits.php:42
+#, php-format
+msgid ""
+"Your payment has been received. <a href=\"%s\">Go back</a> to your account"
+msgstr ""
+
+#: lib/gateways/pay_featured_listing_credits.php:60
+#, php-format
+msgid "Payment for listing featured job: %s"
+msgstr ""
+
+#: lib/gateways/pay_featured_listing_credits.php:85
+#, php-format
+msgid ""
+"You are about to pay for the listing fee using your balance. <br/>The fee is "
+"<b>%s</b>. Your current credit amount is %s."
+msgstr ""
+
+#: lib/gateways/pay_featured_listing_credits.php:99
+msgid "Confirm Payment"
+msgstr ""
+
+#: lib/gateways/pay_featured_listing_credits.php:100 lib/post_new.php:859
+#: lib/post_new.php:884 lib/post_new.php:2152
+msgid "Go Back"
+msgstr ""
+
+#: lib/gateways/pay_listing_moneybookers.php:47
+#: lib/gateways/pay_listing_payza.php:32 lib/gateways/pay_listing_payza.php:33
+#, php-format
+msgid "Listing Fee %s"
+msgstr ""
+
+#: lib/gateways/pay_listing_paypal.php:69
+#, php-format
+msgid "Listing Fee: %s"
+msgstr ""
+
+#: lib/gateways/paypal_deposit_pay.php:47
+msgid "Payment Deposit"
+msgstr ""
+
+#: lib/gateways/paypal_deposit_pay.php:118
+msgid "Deposit through PayPal."
+msgstr ""
+
+#: lib/gateways/payza_deposit_pay.php:36 lib/gateways/payza_deposit_pay.php:37
+msgid "Deposit money"
+msgstr ""
+
+#: lib/get_files_panel.php:16
+#, php-format
+msgid "Files Uploaded: %s"
+msgstr ""
+
+#: lib/get_files_panel.php:53
+msgid "There are no files attached."
+msgstr ""
+
+#: lib/login_register/login.php:91 lib/login_register/login.php:277
+#: lib/login_register/login.php:290
+msgid "Sorry, that key does not appear to be valid."
+msgstr ""
+
+#: lib/login_register/login.php:106
+#, php-format
+msgid "Retrieve Password - %s"
+msgstr ""
+
+#: lib/login_register/login.php:132
+msgid "Please enter your information here. We will send you a new password."
+msgstr ""
+
+#: lib/login_register/login.php:138
+msgid "Username or Email:"
+msgstr ""
+
+#: lib/login_register/login.php:146
+msgid "Retrieve Password"
+msgstr ""
+
+#: lib/login_register/login.php:155 lib/login_register/login.php:532
+#: lib/login_register/register.php:189
+msgid "Are you lost?"
+msgstr ""
+
+#: lib/login_register/login.php:159 lib/login_register/register.php:72
+#: lib/login_register/register.php:190
+msgid "Login"
+msgstr ""
+
+#: lib/login_register/login.php:202
+msgid "Retrieve Error"
+msgstr ""
+
+#: lib/login_register/login.php:207
+#, php-format
+msgid ""
+"Sorry, that user does not seem to exist in our database. Perhaps you have "
+"the wrong username or e-mail address? <a href=\"%s\">Try again</a>."
+msgstr ""
+
+#: lib/login_register/login.php:228
+msgid ""
+"Someone has asked to reset the password for the following site and username."
+msgstr ""
+
+#: lib/login_register/login.php:230 lib/login_register/login.php:306
+#: lib/login_register/register.php:66 lib/login_register/sett.php:110
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: lib/login_register/login.php:231
+msgid ""
+"To reset your password visit the following address, otherwise just ignore "
+"this email and nothing will happen."
+msgstr ""
+
+#: lib/login_register/login.php:235
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: lib/login_register/login.php:241
+msgid "There Was a Problem"
+msgstr ""
+
+#: lib/login_register/login.php:242 lib/login_register/login.php:316
+#: lib/login_register/sett.php:128
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: lib/login_register/login.php:243 lib/login_register/login.php:317
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr ""
+
+#: lib/login_register/login.php:248
+#, php-format
+msgid "The e-mail was sent successfully to %s's e-mail address."
+msgstr ""
+
+#: lib/login_register/login.php:249 lib/login_register/login.php:323
+msgid "Check your e-mail first, of course"
+msgstr ""
+
+#: lib/login_register/login.php:250 lib/login_register/login.php:324
+msgid "Click here to login!"
+msgstr ""
+
+#: lib/login_register/login.php:276 lib/login_register/login.php:289
+#: lib/login_register/login.php:315
+msgid "<h1>Problem</h1>"
+msgstr ""
+
+#: lib/login_register/login.php:307 lib/login_register/register.php:67
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: lib/login_register/login.php:310
+msgid "Your new password"
+msgstr ""
+
+#: lib/login_register/login.php:321
+msgid "<h1>Success!</h1>"
+msgstr ""
+
+#: lib/login_register/login.php:322
+msgid "Your new password is in the mail."
+msgstr ""
+
+#: lib/login_register/login.php:326
+#, php-format
+msgid "Password Lost and Changed for user: %s"
+msgstr ""
+
+#: lib/login_register/login.php:327
+#, php-format
+msgid "[%s] Password Lost/Change"
+msgstr ""
+
+#: lib/login_register/login.php:378
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Cookies are blocked due to unexpected output. For "
+"help, please see <a href=\"%1$s\">this documentation</a> or try the <a href="
+"\"%2$s\">support forums</a>."
+msgstr ""
+
+#: lib/login_register/login.php:379 lib/login_register/login.php:383
+msgid "https://codex.wordpress.org/Cookies"
+msgstr ""
+
+#: lib/login_register/login.php:379
+msgid "https://wordpress.org/support/"
+msgstr ""
+
+#: lib/login_register/login.php:382
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Cookies are blocked or not supported by your "
+"browser. You must <a href=\"%s\">enable cookies</a> to use WordPress."
+msgstr ""
+
+#: lib/login_register/login.php:413
+#, php-format
+msgid "Login - %s"
+msgstr ""
+
+#: lib/login_register/login.php:436
+msgid ""
+"We have sent a confirmation message to your email address.<br/>\n"
+"\t\t\t\t\tPlease follow the instructions in the email and get back to this "
+"page."
+msgstr ""
+
+#: lib/login_register/login.php:505 lib/login_register/register.php:142
+msgid "Username:"
+msgstr ""
+
+#: lib/login_register/login.php:510
+msgid "Password:"
+msgstr ""
+
+#: lib/login_register/login.php:516
+msgid "Keep me logged in"
+msgstr ""
+
+#: lib/login_register/login.php:524
+msgid "Sign in"
+msgstr ""
+
+#: lib/login_register/login.php:537
+msgid "Password Lost and Found"
+msgstr ""
+
+#: lib/login_register/login.php:537 lib/login_register/register.php:191
+msgid "Lost your password?"
+msgstr ""
+
+#: lib/login_register/register.php:52
+#, php-format
+msgid "Registration Complete - %s"
+msgstr ""
+
+#: lib/login_register/register.php:67
+msgid "emailed to you"
+msgstr ""
+
+#: lib/login_register/register.php:68
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: lib/login_register/register.php:69
+msgid ""
+"Please check your <strong>Junk Mail</strong> if your account information "
+"does not appear within 5 minutes."
+msgstr ""
+
+#: lib/login_register/register.php:101
+#, php-format
+msgid "Register - %s"
+msgstr ""
+
+#: lib/login_register/register.php:147
+msgid "E-mail:"
+msgstr ""
+
+#: lib/login_register/register.php:163
+msgid "User Type:"
+msgstr ""
+
+#: lib/login_register/register.php:178
+msgid "A password will be emailed to you."
+msgstr ""
+
+#: lib/login_register/register.php:191
+msgid "Password Lost?"
+msgstr ""
+
+#: lib/login_register/register.php:225
+msgid "Registration Disabled"
+msgstr ""
+
+#: lib/login_register/register.php:229
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: lib/login_register/register.php:230
+msgid "Go back to the blog"
+msgstr ""
+
+#: lib/login_register/register.php:256
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr ""
+
+#: lib/login_register/register.php:258
+msgid ""
+"<strong>ERROR</strong>: This username is invalid because it uses illegal "
+"characters. Please enter a valid username."
+msgstr ""
+
+#: lib/login_register/register.php:261
+msgid ""
+"<strong>ERROR</strong>: This username is already registered, please choose "
+"another one."
+msgstr ""
+
+#: lib/login_register/register.php:266
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr ""
+
+#: lib/login_register/register.php:268
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr ""
+
+#: lib/login_register/register.php:271
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one."
+msgstr ""
+
+#: lib/login_register/register.php:293
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a "
+"href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+
+#: lib/login_register/sett.php:65
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: lib/login_register/sett.php:69
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: lib/login_register/sett.php:82
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: lib/login_register/sett.php:96
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: lib/login_register/sett.php:108
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: lib/login_register/sett.php:111
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: lib/login_register/sett.php:112
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: lib/login_register/sett.php:122
+msgid "Password Reset"
+msgstr ""
+
+#: lib/login_register/sett.php:128
+msgid ""
+"Possible reason: your host may have disabled the \n"
+"\t\tmail() function..."
+msgstr ""
+
+#: lib/message-board.php:62 lib/message-board.php:151
+#, php-format
+msgid "Posted by <b>%s</b> on <b>%s</b>"
+msgstr ""
+
+#: lib/message-board.php:100
+#, php-format
+msgid "Public Message Board: %s"
+msgstr ""
+
+#: lib/message-board.php:114
+msgid "Your Message"
+msgstr ""
+
+#: lib/message-board.php:122 lib/my_account/private_messages.php:847
+#: lib/post_new.php:1342 single-project.php:867
+msgid "Send Message"
+msgstr ""
+
+#: lib/message-board.php:164
+msgid "No messages posted yet."
+msgstr ""
+
+#: lib/my_account/active_projects.php:46
+#: lib/my_account/awaiting_completion.php:52 lib/my_account/my_account.php:91
+#: lib/my_account/my_account.php:121 lib/my_account/my_account.php:152
+#: lib/my_account/my_account.php:204 lib/my_account/my_account.php:231
+#: lib/my_account/my_account.php:258 lib/my_account/outstanding_payments.php:68
+#: lib/my_account/unpublished_projects.php:62
+#: lib/my_account/won_projects.php:51
+msgid "There are no projects yet."
+msgstr ""
+
+#: lib/my_account/awaiting_payments.php:71
+msgid "You do not have any awaiting payments yet."
+msgstr ""
+
+#: lib/my_account/bid_projects.php:55
+msgid "You have not submitted any proposals yet."
+msgstr ""
+
+#: lib/my_account/closed_projects.php:48
+msgid "There are no closed projects yet."
+msgstr ""
+
+#: lib/my_account/delete_project.php:18
+msgid "Delete Project"
+msgstr ""
+
+#: lib/my_account/delete_project.php:44
+#, php-format
+msgid "Delete Project - %s"
+msgstr ""
+
+#: lib/my_account/delete_project.php:69
+#, php-format
+msgid "The project has been deleted. <a href='%s'>Return to your account</a>."
+msgstr ""
+
+#: lib/my_account/delete_project.php:77
+msgid "Are you sure you want to delete this project?"
+msgstr ""
+
+#: lib/my_account/delete_project.php:78 lib/my_account/private_messages.php:505
+#: lib/my_account/private_messages.php:517
+msgid "Confirm Deletion"
+msgstr ""
+
+#: lib/my_account/delivered_projects.php:28
+msgid "Delivered Projects"
+msgstr ""
+
+#: lib/my_account/edit_project.php:338
+msgid "Extra images cost"
+msgstr ""
+
+#: lib/my_account/edit_project.php:401
+#, php-format
+msgid "Edit Project - %s"
+msgstr ""
+
+#: lib/my_account/edit_project.php:440 lib/my_account/edit_project.php:455
+#: lib/my_account/edit_project.php:492
+#, php-format
+msgid ""
+"Your project has been updated but is not live. To make your project live you "
+"must <b><a href=\"%s\">publish</a></b> it first."
+msgstr ""
+
+#: lib/my_account/edit_project.php:447
+msgid ""
+"Your project has been updated and but is not live. The admin must approve it "
+"before it goes live."
+msgstr ""
+
+#: lib/my_account/edit_project.php:464 lib/my_account/edit_project.php:476
+#, php-format
+msgid ""
+"Your project has been updated and is live now. <a href=\"%s\"><strong>Click "
+"here</strong></a> to see your project."
+msgstr ""
+
+#: lib/my_account/edit_project.php:501
+msgid ""
+"You have added extra options to your project. In order to publish your "
+"project you need to pay for the options."
+msgstr ""
+
+#: lib/my_account/edit_project.php:520
+msgid "Total"
+msgstr ""
+
+#: lib/my_account/edit_project.php:526 lib/my_account/relist_this_done.php:259
+#: lib/post_new.php:2075
+msgid "Your Total Credits"
+msgstr ""
+
+#: lib/my_account/edit_project.php:534 lib/post_new.php:2117
+msgid "Pay by Credits"
+msgstr ""
+
+#: lib/my_account/edit_project.php:547 lib/my_account/relist_this_done.php:306
+#: lib/post_new.php:2131
+msgid "Pay by PayPal"
+msgstr ""
+
+#: lib/my_account/edit_project.php:550 lib/my_account/relist_this_done.php:309
+#: lib/post_new.php:2134
+msgid "Pay by MoneyBookers/Skrill"
+msgstr ""
+
+#: lib/my_account/edit_project.php:553 lib/my_account/relist_this_done.php:312
+#: lib/post_new.php:2137
+msgid "Pay by Payza"
+msgstr ""
+
+#: lib/my_account/edit_project.php:581 lib/my_account/repost_project.php:265
+#: lib/post_new.php:102
+msgid "Your project title"
+msgstr ""
+
+#: lib/my_account/edit_project.php:742 lib/post_new.php:337
+msgid "Now"
+msgstr ""
+
+#: lib/my_account/edit_project.php:743 lib/post_new.php:338
+msgid "Done"
+msgstr ""
+
+#: lib/my_account/edit_project.php:748 lib/post_new.php:344
+msgid "Choose Time"
+msgstr ""
+
+#: lib/my_account/edit_project.php:749 lib/post_new.php:345
+msgid "Time"
+msgstr ""
+
+#: lib/my_account/edit_project.php:750 lib/post_new.php:346
+msgid "Hour"
+msgstr ""
+
+#: lib/my_account/edit_project.php:751 lib/post_new.php:347
+msgid "Minute"
+msgstr ""
+
+#: lib/my_account/edit_project.php:752 lib/post_new.php:348
+msgid "Second"
+msgstr ""
+
+#: lib/my_account/edit_project.php:753 lib/post_new.php:349
+msgid "Time Zone"
+msgstr ""
+
+#: lib/my_account/edit_project.php:769 lib/my_account/repost_project.php:292
+#: lib/post_new.php:469
+msgid "Attach Images"
+msgstr ""
+
+#: lib/my_account/edit_project.php:994
+msgid "Price Range"
+msgstr ""
+
+#: lib/my_account/edit_project.php:1037 lib/my_account/edit_project.php:1064
+#: lib/post_new.php:396 lib/post_new.php:423
+msgid "Select SubLocation"
+msgstr ""
+
+#: lib/my_account/edit_project.php:1108 lib/my_account/repost_project.php:598
+#: lib/post_new.php:782
+msgid "Feature project?"
+msgstr ""
+
+#: lib/my_account/edit_project.php:1111 lib/my_account/repost_project.php:607
+msgid ""
+"By clicking this checkbox you mark your project as featured. Extra fee is "
+"applied."
+msgstr ""
+
+#: lib/my_account/edit_project.php:1123 lib/post_new.php:809
+msgid "Sealed Bidding?"
+msgstr ""
+
+#: lib/my_account/edit_project.php:1126
+msgid ""
+"By clicking this checkbox you hide your project's bids. Extra fee is applied."
+msgstr ""
+
+#: lib/my_account/edit_project.php:1138
+msgid "Hide from search engines"
+msgstr ""
+
+#: lib/my_account/edit_project.php:1141
+msgid ""
+"By clicking this checkbox you hide your project from search engines. Extra "
+"fee is applied."
+msgstr ""
+
+#: lib/my_account/edit_project.php:1191 lib/my_account/repost_project.php:585
+#: lib/post_new.php:251
+msgid "Tags"
+msgstr ""
+
+#: lib/my_account/edit_project.php:1197
+msgid "Save Project"
+msgstr ""
+
+#: lib/my_account/feedbacks.php:17
+msgid "Reviews I need to award"
+msgstr ""
+
+#: lib/my_account/feedbacks.php:32 lib/my_account/private_messages.php:141
+#: lib/my_account/private_messages.php:371
+msgid "To User"
+msgstr ""
+
+#: lib/my_account/feedbacks.php:33 lib/my_account/feedbacks.php:100
+#: lib/my_account/feedbacks.php:166 lib/user-feedback.php:68
+#: lib/user-profile.php:283 lib/user-profile.php:417
+msgid "Aquired on"
+msgstr ""
+
+#: lib/my_account/feedbacks.php:60
+msgid "Rate User"
+msgstr ""
+
+#: lib/my_account/feedbacks.php:70 lib/my_account/feedbacks.php:137
+#: lib/my_account/feedbacks.php:211 lib/my_account/reviews.php:163
+msgid "There are no reviews to be awarded."
+msgstr ""
+
+#: lib/my_account/feedbacks.php:84
+msgid "Reviews I am waiting "
+msgstr ""
+
+#: lib/my_account/feedbacks.php:99 lib/my_account/feedbacks.php:165
+#: lib/my_account/private_messages.php:87
+#: lib/my_account/private_messages.php:253 lib/user-feedback.php:67
+#: lib/user-profile.php:282 lib/user-profile.php:416
+msgid "From User"
+msgstr ""
+
+#: lib/my_account/feedbacks.php:150
+msgid "Reviews I was awarded "
+msgstr ""
+
+#: lib/my_account/feedbacks.php:200 lib/user-feedback.php:100
+#: lib/user-profile.php:311 lib/user-profile.php:445
+msgid "Comment"
+msgstr ""
+
+#: lib/my_account/mark_completed.php:69
+#, php-format
+msgid "Mark the project as completed: %s"
+msgstr ""
+
+#: lib/my_account/mark_completed.php:89
+#, php-format
+msgid "You are about to mark this project as completed: %s"
+msgstr ""
+
+#: lib/my_account/mark_completed.php:90
+msgid ""
+"The service provider will be notified about this action. After this you can "
+"pay the project from your Outstanding Payments section."
+msgstr ""
+
+#: lib/my_account/mark_completed.php:98
+msgid "Yes, Mark Completed!"
+msgstr ""
+
+#: lib/my_account/mark_delivered.php:68
+#, php-format
+msgid "Mark the project delivered: %s"
+msgstr ""
+
+#: lib/my_account/mark_delivered.php:87
+#, php-format
+msgid "You are about to mark this project as delivered: %s"
+msgstr ""
+
+#: lib/my_account/mark_delivered.php:88
+msgid ""
+"The project owner will be notified to accept the delivery and get you paid."
+msgstr ""
+
+#: lib/my_account/mark_delivered.php:96
+msgid "Yes, Mark Delivered!"
+msgstr ""
+
+#: lib/my_account/my_account.php:37
+#, php-format
+msgid ""
+"Your payment was received for the item: <b>%s</b> but your project needs to "
+"be approved. \n"
+"\t\tYou will be notified when your project will be approved and live on our "
+"website"
+msgstr ""
+
+#: lib/my_account/my_account.php:49
+msgid "My Latest Posted Projects"
+msgstr ""
+
+#: lib/my_account/my_account.php:107
+msgid "My Unpublished &amp; Unpaid Projects"
+msgstr ""
+
+#: lib/my_account/my_account.php:138
+msgid "My Latest Closed Projects"
+msgstr ""
+
+#: lib/my_account/my_account.php:169
+msgid "Outstanding Projects"
+msgstr ""
+
+#: lib/my_account/my_account.php:217
+msgid "My Latest Posted Proposals"
+msgstr ""
+
+#: lib/my_account/my_account.php:244
+msgid "My Latest Won Projects"
+msgstr ""
+
+#: lib/my_account/pay_for_project.php:29
+#, php-format
+msgid "Pay for project - %s"
+msgstr ""
+
+#: lib/my_account/pay_for_project.php:54
+msgid ""
+"You are about to pay for this project. Use the accepted methods below to pay "
+"for it."
+msgstr ""
+
+#: lib/my_account/pay_for_project.php:55
+#, php-format
+msgid "The price for the project is: %s"
+msgstr ""
+
+#: lib/my_account/pay_for_project.php:71
+msgid "Pay by credits"
+msgstr ""
+
+#: lib/my_account/pay_with_credits.php:29
+msgid "Pay with virtual currency"
+msgstr ""
+
+#: lib/my_account/pay_with_credits.php:60
+msgid "You do not have enough credits to pay for this project."
+msgstr ""
+
+#: lib/my_account/pay_with_credits.php:74
+msgid "Your payment has been sent."
+msgstr ""
+
+#: lib/my_account/pay_with_credits.php:84
+msgid "The price for the project is"
+msgstr ""
+
+#: lib/my_account/payments.php:53
+#, php-format
+msgid "Request canceled! <a href=\"%s\">Return to payments</a>."
+msgstr ""
+
+#: lib/my_account/payments.php:95
+#, php-format
+msgid "Escrow payment received from %s for the project <b>%s</b>"
+msgstr ""
+
+#: lib/my_account/payments.php:118
+#, php-format
+msgid "Escrow Payment completed, sent to %s for project <b>%s</b>"
+msgstr ""
+
+#: lib/my_account/payments.php:138
+msgid "Escrow completed! Redirecting..."
+msgstr ""
+
+#: lib/my_account/payments.php:169
+msgid "Your Current Balance is"
+msgstr ""
+
+#: lib/my_account/payments.php:184
+msgid "What do you want to do"
+msgstr ""
+
+#: lib/my_account/payments.php:189 lib/my_account/payments.php:1011
+msgid "Deposit Money"
+msgstr ""
+
+#: lib/my_account/payments.php:190 lib/my_account/payments.php:643
+#: lib/my_account/payments.php:778
+msgid "Make Payment"
+msgstr ""
+
+#: lib/my_account/payments.php:193
+msgid "Deposit Escrow"
+msgstr ""
+
+#: lib/my_account/payments.php:196
+msgid "Withdraw Money"
+msgstr ""
+
+#: lib/my_account/payments.php:197
+msgid "Transactions"
+msgstr ""
+
+#: lib/my_account/payments.php:198
+msgid "Bank Transfer Details"
+msgstr ""
+
+#: lib/my_account/payments.php:213
+msgid "Pending Withdrawals"
+msgstr ""
+
+#: lib/my_account/payments.php:226 lib/my_account/payments.php:274
+msgid "No withdrawals pending yet."
+msgstr ""
+
+#: lib/my_account/payments.php:240
+msgid "Close Request"
+msgstr ""
+
+#: lib/my_account/payments.php:261
+msgid "Rejected Withdrawals"
+msgstr ""
+
+#: lib/my_account/payments.php:309
+msgid "Pending Incoming Payments"
+msgstr ""
+
+#: lib/my_account/payments.php:318 lib/my_account/payments.php:366
+msgid "No payments pending yet."
+msgstr ""
+
+#: lib/my_account/payments.php:357
+msgid "Pending Outgoing Payments"
+msgstr ""
+
+#: lib/my_account/payments.php:372
+msgid "User"
+msgstr ""
+
+#: lib/my_account/payments.php:391
+msgid "Release Payment"
+msgstr ""
+
+#: lib/my_account/payments.php:414
+msgid "Make Escrow Payment"
+msgstr ""
+
+#: lib/my_account/payments.php:431 lib/my_account/payments.php:834
+msgid "Provide a well formated amount."
+msgstr ""
+
+#: lib/my_account/payments.php:436
+msgid "Please choose an project."
+msgstr ""
+
+#: lib/my_account/payments.php:442 lib/my_account/payments.php:848
+msgid "Your balance is smaller than the amount requested."
+msgstr ""
+
+#: lib/my_account/payments.php:466
+msgid "Money Escrow Sent"
+msgstr ""
+
+#: lib/my_account/payments.php:467
+#, php-format
+msgid ""
+"You have placed in escrow the amount of: %s to user: \n"
+"\t\t\t\t\t\t\t<b>%s</b>"
+msgstr ""
+
+#: lib/my_account/payments.php:497
+msgid "Money Escrow Received"
+msgstr ""
+
+#: lib/my_account/payments.php:498
+#, php-format
+msgid "You have received in escrow the amount of: %s from user: <b>%s</b>"
+msgstr ""
+
+#: lib/my_account/payments.php:506 lib/my_account/payments.php:737
+msgid "Your payment has been sent. Redirecting..."
+msgstr ""
+
+#: lib/my_account/payments.php:517 lib/my_account/payments.php:802
+#, php-format
+msgid "Your Current Balance is: %s"
+msgstr ""
+
+#: lib/my_account/payments.php:567
+msgid "Escrow amount"
+msgstr ""
+
+#: lib/my_account/payments.php:568
+msgid "Select your project."
+msgstr ""
+
+#: lib/my_account/payments.php:571
+msgid "Escrow for Project"
+msgstr ""
+
+#: lib/my_account/payments.php:572
+msgid "You dont have any awarded projects."
+msgstr ""
+
+#: lib/my_account/payments.php:594
+msgid "Set your Bank Transfer Details"
+msgstr ""
+
+#: lib/my_account/payments.php:608
+msgid "Saved"
+msgstr ""
+
+#: lib/my_account/payments.php:618
+msgid "Bank details"
+msgstr ""
+
+#: lib/my_account/payments.php:626
+msgid "Save Details"
+msgstr ""
+
+#: lib/my_account/payments.php:662
+msgid "ERROR: Provide a well formated amount."
+msgstr ""
+
+#: lib/my_account/payments.php:667
+msgid "ERROR: Invalid username provided."
+msgstr ""
+
+#: lib/my_account/payments.php:672
+msgid "ERROR: You cannot transfer money to your own account."
+msgstr ""
+
+#: lib/my_account/payments.php:681
+msgid "ERROR: Your balance is smaller than the amount requested."
+msgstr ""
+
+#: lib/my_account/payments.php:685
+#, php-format
+msgid "ERROR: The amount should not be less than %s"
+msgstr ""
+
+#: lib/my_account/payments.php:706
+msgid "Money Sent"
+msgstr ""
+
+#: lib/my_account/payments.php:707
+#, php-format
+msgid "You have sent amount of: %s to user: <b>%s</b>"
+msgstr ""
+
+#: lib/my_account/payments.php:712
+#, php-format
+msgid "Amount transfered to user %s"
+msgstr ""
+
+#: lib/my_account/payments.php:726
+msgid "Money Received"
+msgstr ""
+
+#: lib/my_account/payments.php:727
+#, php-format
+msgid "You have received amount of: %s from user: <b>%s</b>"
+msgstr ""
+
+#: lib/my_account/payments.php:732
+#, php-format
+msgid "Amount transfered from user %s"
+msgstr ""
+
+#: lib/my_account/payments.php:751
+#, php-format
+msgid "Your Current Balance is %s"
+msgstr ""
+
+#: lib/my_account/payments.php:758
+msgid "Payment amount"
+msgstr ""
+
+#: lib/my_account/payments.php:763
+msgid "Pay to user"
+msgstr ""
+
+#: lib/my_account/payments.php:771 lib/my_account/private_messages.php:806
+msgid "or"
+msgstr ""
+
+#: lib/my_account/payments.php:793
+msgid "Request Withdrawal"
+msgstr ""
+
+#: lib/my_account/payments.php:839
+msgid "Invalid email provided."
+msgstr ""
+
+#: lib/my_account/payments.php:852
+#, php-format
+msgid "The amount should not be less than %s"
+msgstr ""
+
+#: lib/my_account/payments.php:892
+msgid "Money Withdraw Requested"
+msgstr ""
+
+#: lib/my_account/payments.php:893
+#, php-format
+msgid "You have requested a new withdrawal of: %s"
+msgstr ""
+
+#: lib/my_account/payments.php:899
+msgid "Your request has been queued. Redirecting..."
+msgstr ""
+
+#: lib/my_account/payments.php:922 lib/my_account/payments.php:949
+#: lib/my_account/payments.php:975
+msgid "Withdraw amount"
+msgstr ""
+
+#: lib/my_account/payments.php:927 lib/my_account/personal_information.php:307
+msgid "PayPal Email"
+msgstr ""
+
+#: lib/my_account/payments.php:934 lib/my_account/payments.php:961
+#: lib/my_account/payments.php:987
+msgid "Withdraw"
+msgstr ""
+
+#: lib/my_account/payments.php:954 lib/my_account/personal_information.php:320
+msgid "Moneybookers Email"
+msgstr ""
+
+#: lib/my_account/payments.php:980 lib/my_account/personal_information.php:333
+msgid "Payza Email"
+msgstr ""
+
+#: lib/my_account/payments.php:1021
+msgid "Deposit money by Bank Transfer"
+msgstr ""
+
+#: lib/my_account/payments.php:1035
+msgid "Deposit money by PayPal"
+msgstr ""
+
+#: lib/my_account/payments.php:1038 lib/my_account/payments.php:1054
+#: lib/my_account/payments.php:1072
+msgid "Amount to deposit:"
+msgstr ""
+
+#: lib/my_account/payments.php:1039 lib/my_account/payments.php:1055
+#: lib/my_account/payments.php:1073
+msgid "Deposit"
+msgstr ""
+
+#: lib/my_account/payments.php:1051
+msgid "Deposit money by Payza"
+msgstr ""
+
+#: lib/my_account/payments.php:1069
+msgid "Deposit money by Moneybookers"
+msgstr ""
+
+#: lib/my_account/payments.php:1091
+msgid "Payment Transactions"
+msgstr ""
+
+#: lib/my_account/payments.php:1100
+msgid "No activity yet."
+msgstr ""
+
+#: lib/my_account/personal_information.php:171
+#: lib/my_account/personal_information.php:176
+msgid "Password was not updated. Passwords do not match!"
+msgstr ""
+
+#: lib/my_account/personal_information.php:207
+msgid "Info saved!"
+msgstr ""
+
+#: lib/my_account/personal_information.php:212
+msgid "Your password was changed. Redirecting to login page..."
+msgstr ""
+
+#: lib/my_account/personal_information.php:276
+msgid "City"
+msgstr ""
+
+#: lib/my_account/personal_information.php:339
+msgid "New Password"
+msgstr ""
+
+#: lib/my_account/personal_information.php:345
+msgid "Repeat Password"
+msgstr ""
+
+#: lib/my_account/personal_information.php:353
+msgid "Profile Avatar"
+msgstr ""
+
+#: lib/my_account/personal_information.php:355
+msgid "max file size: 1mb. Formats: jpeg, jpg, png, gif"
+msgstr ""
+
+#: lib/my_account/personal_information.php:374
+#: lib/my_account/personal_information.php:675
+msgid "Save"
+msgstr ""
+
+#: lib/my_account/personal_information.php:389
+msgid "Other Information"
+msgstr ""
+
+#: lib/my_account/personal_information.php:438
+msgid "Hourly Rate"
+msgstr ""
+
+#: lib/my_account/personal_information.php:440
+msgid "your estimated hourly rate"
+msgstr ""
+
+#: lib/my_account/personal_information.php:456 lib/user-profile.php:185
+msgid "Portfolio Pictures"
+msgstr ""
+
+#: lib/my_account/personal_information.php:547
+msgid "Click the grey area below to add project images."
+msgstr ""
+
+#: lib/my_account/personal_information.php:569
+msgid "Emails Alerts"
+msgstr ""
+
+#: lib/my_account/personal_information.php:609
+msgid ""
+"you will get an email notification when a project is posted in the selected "
+"categories"
+msgstr ""
+
+#: lib/my_account/personal_information.php:659
+msgid ""
+"you will get an email notification when a project is posted in the selected "
+"locations"
+msgstr ""
+
+#: lib/my_account/private_messages.php:43
+msgid "Messaging Home"
+msgstr ""
+
+#: lib/my_account/private_messages.php:44
+msgid "Send New Message"
+msgstr ""
+
+#: lib/my_account/private_messages.php:45
+msgid "Inbox"
+msgstr ""
+
+#: lib/my_account/private_messages.php:53
+msgid "Sent Items"
+msgstr ""
+
+#: lib/my_account/private_messages.php:75
+msgid "Latest Received Messages"
+msgstr ""
+
+#: lib/my_account/private_messages.php:106
+#: lib/my_account/private_messages.php:161
+#: lib/my_account/private_messages.php:273
+#: lib/my_account/private_messages.php:392
+msgid "Read"
+msgstr ""
+
+#: lib/my_account/private_messages.php:114
+#: lib/my_account/private_messages.php:170
+#: lib/my_account/private_messages.php:290
+#: lib/my_account/private_messages.php:409
+msgid "No messages here."
+msgstr ""
+
+#: lib/my_account/private_messages.php:129
+msgid "Latest Sent Items"
+msgstr ""
+
+#: lib/my_account/private_messages.php:197
+msgid "Private Messages: Inbox"
+msgstr ""
+
+#: lib/my_account/private_messages.php:252
+#: lib/my_account/private_messages.php:370
+msgid "Select All"
+msgstr ""
+
+#: lib/my_account/private_messages.php:279
+#: lib/my_account/private_messages.php:398
+msgid "Delete Selected"
+msgstr ""
+
+#: lib/my_account/private_messages.php:339
+msgid "Private Messages: Sent Items"
+msgstr ""
+
+#: lib/my_account/private_messages.php:453
+msgid "Delete Multiple Messages: "
+msgstr ""
+
+#: lib/my_account/private_messages.php:458
+msgid "Delete Message: "
+msgstr ""
+
+#: lib/my_account/private_messages.php:490
+msgid "No messsages selected."
+msgstr ""
+
+#: lib/my_account/private_messages.php:502
+#: lib/my_account/private_messages.php:514
+msgid "Cancel"
+msgstr ""
+
+#: lib/my_account/private_messages.php:553
+msgid "Read Message: "
+msgstr ""
+
+#: lib/my_account/private_messages.php:567
+msgid "Reply"
+msgstr ""
+
+#: lib/my_account/private_messages.php:761
+msgid "Your message has been sent."
+msgstr ""
+
+#: lib/my_account/private_messages.php:763
+msgid ""
+"Your message has been sent but the receiver will receive it only after "
+"moderation."
+msgstr ""
+
+#: lib/my_account/private_messages.php:775
+msgid "You cannot send a message to yourself."
+msgstr ""
+
+#: lib/my_account/private_messages.php:776
+#, php-format
+msgid "Wrong File format: %s"
+msgstr ""
+
+#: lib/my_account/private_messages.php:779
+msgid "ERROR! wrong username provided."
+msgstr ""
+
+#: lib/my_account/private_messages.php:794
+msgid "Send Private Message to: "
+msgstr ""
+
+#: lib/my_account/private_messages.php:805
+msgid "Send To"
+msgstr ""
+
+#: lib/my_account/private_messages.php:829
+msgid "Message"
+msgstr ""
+
+#: lib/my_account/private_messages.php:835
+msgid "Attach File"
+msgstr ""
+
+#: lib/my_account/private_messages.php:836
+msgid "Only PDF, ZIP, Office files and Images."
+msgstr ""
+
+#: lib/my_account/rate_user.php:44
+#, php-format
+msgid "Review User %s for project %s"
+msgstr ""
+
+#: lib/my_account/rate_user.php:77
+msgid "Please leave a comment with your review."
+msgstr ""
+
+#: lib/my_account/rate_user.php:88
+#, php-format
+msgid ""
+"Your rating has been posted. <a href='%s'>Return to your account area</a>"
+msgstr ""
+
+#: lib/my_account/rate_user.php:134
+msgid "Your Rating"
+msgstr ""
+
+#: lib/my_account/rate_user.php:139
+msgid "Your Comment"
+msgstr ""
+
+#: lib/my_account/rate_user.php:147
+msgid "Submit Rating"
+msgstr ""
+
+#: lib/my_account/relist_this_done.php:18
+msgid "Relist Project Project"
+msgstr ""
+
+#: lib/my_account/relist_this_done.php:49
+msgid "Finalise Relist Project"
+msgstr ""
+
+#: lib/my_account/relist_this_done.php:136 lib/post_new.php:1976
+msgid "Thank you for posting your project with us."
+msgstr ""
+
+#: lib/my_account/relist_this_done.php:154 lib/post_new.php:1994
+msgid "Your project isn`t live yet, the admin needs to approve it."
+msgstr ""
+
+#: lib/my_account/relist_this_done.php:186 lib/post_new.php:2026
+msgid ""
+"Thank you for posting your project with us. Below is the total price that "
+"you need to pay in order to put your project live.<br/>\n"
+"\t\t\tClick the pay button and you will be redirected..."
+msgstr ""
+
+#: lib/my_account/relist_this_done.php:191
+#, php-format
+msgid ""
+"A new project was posted on your website. <br/>\n"
+"\t\t\tSee it here: <a href=\"%s\">%s</a>"
+msgstr ""
+
+#: lib/my_account/relist_this_done.php:236
+msgid "Hide Project from search engines Fee"
+msgstr ""
+
+#: lib/my_account/relist_this_done.php:277 lib/post_new.php:2094
+msgid "See your project"
+msgstr ""
+
+#: lib/my_account/relist_this_done.php:283 lib/post_new.php:2101
+msgid "Go to your account"
+msgstr ""
+
+#: lib/my_account/repost_project.php:125 lib/post_new_post.php:46
+msgid "You cannot leave the project title blank!"
+msgstr ""
+
+#: lib/my_account/repost_project.php:126 lib/post_new_post.php:71
+msgid "You cannot leave the project description blank!"
+msgstr ""
+
+#: lib/my_account/repost_project.php:571
+msgid "Address:"
+msgstr ""
+
+#: lib/my_account/repost_project.php:619
+msgid "Sealed bidding?"
+msgstr ""
+
+#: lib/my_account/repost_project.php:628
+msgid ""
+"By clicking this checkbox you mark your seal the bidding. Extra fee is "
+"applied."
+msgstr ""
+
+#: lib/my_account/repost_project.php:642
+msgid "Hide project from search engines?"
+msgstr ""
+
+#: lib/my_account/repost_project.php:651
+msgid ""
+"By clicking this checkbox you hide the project from search engines. Extra "
+"fee is applied."
+msgstr ""
+
+#: lib/my_account/repost_project.php:661
+msgid "Coupon"
+msgstr ""
+
+#: lib/my_account/repost_project.php:663
+msgid "The coupon code you used is wrong."
+msgstr ""
+
+#: lib/my_account/repost_project.php:690
+msgid "Publish Project"
+msgstr ""
+
+#: lib/my_account/reviews.php:36 lib/my_account/reviews.php:53
+msgid "My Ratings"
+msgstr ""
+
+#: lib/my_account/reviews.php:51
+msgid "Ratings to Award"
+msgstr ""
+
+#: lib/my_account/reviews.php:52
+msgid "Pending Ratings"
+msgstr ""
+
+#: lib/my_account/reviews.php:76
+msgid "Please input a description for your rating"
+msgstr ""
+
+#: lib/my_account/reviews.php:143
+msgid "Submit Rating Now"
+msgstr ""
+
+#: lib/my_account/reviews.php:202
+#, php-format
+msgid "Waiting from: %s"
+msgstr ""
+
+#: lib/my_account/reviews.php:222
+msgid "You have no pending reviews."
+msgstr ""
+
+#: lib/my_account/reviews.php:264
+msgid "Rated"
+msgstr ""
+
+#: lib/my_account/reviews.php:268
+msgid "Negative"
+msgstr ""
+
+#: lib/my_account/reviews.php:269
+msgid "Positive"
+msgstr ""
+
+#: lib/my_account/reviews.php:295
+msgid "You have no reviews."
+msgstr ""
+
+#: lib/my_account/workspaces.php:37
+msgid "There are no workspaces yet."
+msgstr ""
+
+#: lib/post_new.php:51
+msgid "Project Info"
+msgstr ""
+
+#: lib/post_new.php:54
+msgid "Preview"
+msgstr ""
+
+#: lib/post_new.php:55
+msgid "Payment & Finish"
+msgstr ""
+
+#: lib/post_new.php:82 lib/post_new.php:718
+msgid ""
+"Your form has errors. Please check below, correct the errors, then submit "
+"again."
+msgstr ""
+
+#: lib/post_new.php:96
+msgid "Project Main Information"
+msgstr ""
+
+#: lib/post_new.php:103
+msgid "eg: I need a website created very soon."
+msgstr ""
+
+#: lib/post_new.php:119
+msgid "Describe here your project scope."
+msgstr ""
+
+#: lib/post_new.php:124
+msgid "Categories"
+msgstr ""
+
+#: lib/post_new.php:252
+msgid "eg: something, comma, separated."
+msgstr ""
+
+#: lib/post_new.php:279
+msgid "Pricing and Budget"
+msgstr ""
+
+#: lib/post_new.php:284 lib/post_new.php:1092 single-project.php:635
+msgid "Project Budget"
+msgstr ""
+
+#: lib/post_new.php:463
+msgid "eg: New York, 13221"
+msgstr ""
+
+#: lib/post_new.php:693 lib/post_new.php:860 lib/post_new.php:885
+msgid "Next Step"
+msgstr ""
+
+#: lib/post_new.php:789 lib/post_new.php:815 lib/post_new.php:839
+msgid "Extra fee is applied"
+msgstr ""
+
+#: lib/post_new.php:793
+#, php-format
+msgid "By clicking this checkbox you mark your project as featured. %s"
+msgstr ""
+
+#: lib/post_new.php:819
+#, php-format
+msgid "By clicking this checkbox you hide your project's bids. %s"
+msgstr ""
+
+#: lib/post_new.php:833
+msgid "Hide Project from search engines"
+msgstr ""
+
+#: lib/post_new.php:842
+#, php-format
+msgid "By clicking this checkbox you hide your project from search engines. %s"
+msgstr ""
+
+#: lib/post_new.php:993 single-project.php:466
+msgid "Report this project"
+msgstr ""
+
+#: lib/post_new.php:1001 single-project.php:474
+#, php-format
+msgid "You need to be <a href=\"%s\">logged</a> in to use this feature."
+msgstr ""
+
+#: lib/post_new.php:1010 single-project.php:483
+msgid "Reason for reporting"
+msgstr ""
+
+#: lib/post_new.php:1019 single-project.php:492
+msgid "Submit Report"
+msgstr ""
+
+#: lib/post_new.php:1060 single-project.php:603
+msgid "Your bid has not been posted. Please correct the errors and try again."
+msgstr ""
+
+#: lib/post_new.php:1075 single-project.php:618
+msgid "Your bid has been posted."
+msgstr ""
+
+#: lib/post_new.php:1136 single-project.php:679
+msgid "Time Left"
+msgstr ""
+
+#: lib/post_new.php:1144 lib/post_new.php:1244 single-project.php:687
+#: single-project.php:787
+msgid "Proposals"
+msgstr ""
+
+#: lib/post_new.php:1165 single-project.php:708
+msgid "Contact Project Owner"
+msgstr ""
+
+#: lib/post_new.php:1166 single-project.php:709
+msgid "Project Message Board"
+msgstr ""
+
+#: lib/post_new.php:1194 single-project.php:737
+msgid "Project closed for price: "
+msgstr ""
+
+#: lib/post_new.php:1221 single-project.php:764
+msgid "Project Description"
+msgstr ""
+
+#: lib/post_new.php:1246 single-project.php:789
+msgid "[project has private proposals]"
+msgstr ""
+
+#: lib/post_new.php:1280
+msgid "Bid"
+msgstr ""
+
+#: lib/post_new.php:1285
+msgid "Choose Winner"
+msgstr ""
+
+#: lib/post_new.php:1288 lib/post_new.php:1335
+msgid "Bid Files"
+msgstr ""
+
+#: lib/post_new.php:1289
+msgid "Messaging"
+msgstr ""
+
+#: lib/post_new.php:1337
+msgid "None"
+msgstr ""
+
+#: lib/post_new.php:1358 single-project.php:885
+msgid "No proposals placed yet."
+msgstr ""
+
+#: lib/post_new.php:1379 single-project.php:906
+msgid "Image Gallery"
+msgstr ""
+
+#: lib/post_new.php:1402 single-project.php:929
+msgid "No images."
+msgstr ""
+
+#: lib/post_new.php:1424 single-project.php:951
+msgid "Map Location"
+msgstr ""
+
+#: lib/post_new.php:1562 single-project.php:1090
+msgid "Apply for this Project"
+msgstr ""
+
+#: lib/post_new.php:1564 single-project.php:1092
+msgid ""
+"You can use the button below to apply and submit a proposal for this project."
+msgstr ""
+
+#: lib/post_new.php:1579 single-project.php:1107
+msgid "Submit a Proposal"
+msgstr ""
+
+#: lib/post_new.php:1589 single-project.php:1117
+msgid "Project Posted By"
+msgstr ""
+
+#: lib/post_new.php:1618 single-project.php:1146
+msgid "Has created:"
+msgstr ""
+
+#: lib/post_new.php:1619 lib/post_new.php:1625 single-project.php:1147
+#: single-project.php:1153
+#, php-format
+msgid "%s project(s)"
+msgstr ""
+
+#: lib/post_new.php:1624 single-project.php:1152
+msgid "Has closed:"
+msgstr ""
+
+#: lib/post_new.php:1630 single-project.php:1158
+msgid "Has rated:"
+msgstr ""
+
+#: lib/post_new.php:1631 single-project.php:1159
+#, php-format
+msgid "%s provider(s)"
+msgstr ""
+
+#: lib/post_new.php:1636 single-project.php:1164
+msgid "See More Projects by this user"
+msgstr ""
+
+#: lib/post_new.php:1651 single-project.php:1179
+msgid "Project Files"
+msgstr ""
+
+#: lib/post_new.php:1657 single-project.php:1185
+msgid "No project files."
+msgstr ""
+
+#: lib/post_new.php:1676 single-project.php:1204
+msgid "Other Options"
+msgstr ""
+
+#: lib/post_new.php:1698 single-project.php:1226
+msgid "Other Details"
+msgstr ""
+
+#: lib/post_new.php:1728 single-project.php:1256
+msgid "Viewed"
+msgstr ""
+
+#: lib/post_new.php:1729 single-project.php:1257
+msgid "times"
+msgstr ""
+
+#: lib/post_new.php:1764 single-project.php:1294
+msgid "Edit"
+msgstr ""
+
+#: lib/post_new.php:1765 single-project.php:1295
+msgid "Repost"
+msgstr ""
+
+#: lib/post_new.php:1770 single-project.php:1300
+msgid "Report"
+msgstr ""
+
+#: lib/post_new.php:1777 single-project.php:1307
+msgid "Contact Seller"
+msgstr ""
+
+#: lib/post_new.php:2156
+msgid "Finalize Project Posting"
+msgstr ""
+
+#: lib/post_new_post.php:54
+msgid "You cannot leave the project category blank!"
+msgstr ""
+
+#: lib/post_new_post.php:63
+msgid "You cannot leave the project location blank!"
+msgstr ""
+
+#: lib/post_new_post.php:268
+#, php-format
+msgid "You cannot leave the field: \"<b>%s</b>\" blank!"
+msgstr ""
+
+#: lib/provider_search.php:171
+msgid "No service providers found for this query."
+msgstr ""
+
+#: lib/provider_search.php:193
+msgid "Username Like"
+msgstr ""
+
+#: lib/provider_search.php:199
+msgid "Rating Over"
+msgstr ""
+
+#: lib/social/social.php:37
+msgid "Connect with:"
+msgstr ""
+
+#: lib/user-feedback.php:20
+#, php-format
+msgid "User Feedback - %s"
+msgstr ""
+
+#: lib/user-feedback.php:114
+msgid "This user has no reviews yet."
+msgstr ""
+
+#: lib/user-profile.php:19
+msgid "User Profile"
+msgstr ""
+
+#: lib/user-profile.php:29
+#, php-format
+msgid "User Profile - %s"
+msgstr ""
+
+#: lib/user-profile.php:57
+msgid "No personal info defined."
+msgstr ""
+
+#: lib/user-profile.php:99
+#, php-format
+msgid "Hourly Rate: %s"
+msgstr ""
+
+#: lib/user-profile.php:126
+msgid "User Latest Posted Projects"
+msgstr ""
+
+#: lib/user-profile.php:263 lib/user-profile.php:397
+msgid "User Latest Feedback"
+msgstr ""
+
+#: lib/user-profile.php:264 lib/user-profile.php:398
+msgid "See All Feedback"
+msgstr ""
+
+#: lib/user-profile.php:322 lib/user-profile.php:456
+msgid "There are no reviews yet."
+msgstr ""
+
+#: lib/user-profile.php:342
+msgid "User Latest Won Projects"
+msgstr ""
+
+#: lib/widgets/best-rated-users.php:52
+msgid "No rated users yet."
+msgstr ""
+
+#: lib/widgets/best-rated-users.php:66
+#, php-format
+msgid "Joined on: %s"
+msgstr ""
+
+#: lib/widgets/best-rated-users.php:87 lib/widgets/browse-by-category.php:144
+#: lib/widgets/browse-by-location.php:176
+#: lib/widgets/category-with-images.php:105 lib/widgets/ending-soonest.php:69
+#: lib/widgets/featured-projects.php:72
+#: lib/widgets/latest-posted-projects.php:67
+#: lib/widgets/most-visited-projects.php:69
+msgid "Title"
+msgstr ""
+
+#: lib/widgets/best-rated-users.php:99
+msgid "User Type"
+msgstr ""
+
+#: lib/widgets/best-rated-users.php:114
+msgid "Users Limit"
+msgstr ""
+
+#: lib/widgets/browse-by-category.php:129
+msgid "See More Categories"
+msgstr ""
+
+#: lib/widgets/browse-by-category.php:150
+#: lib/widgets/browse-by-location.php:182
+msgid "Only show parent categories"
+msgstr ""
+
+#: lib/widgets/browse-by-category.php:157
+#: lib/widgets/browse-by-location.php:188
+msgid "Number of Columns"
+msgstr ""
+
+#: lib/widgets/browse-by-category.php:163
+#: lib/widgets/browse-by-location.php:194
+msgid "Number of Rows"
+msgstr ""
+
+#: lib/widgets/browse-by-category.php:170
+#: lib/widgets/category-with-images.php:111
+msgid "Only show categories below"
+msgstr ""
+
+#: lib/widgets/browse-by-category.php:176
+#: lib/widgets/category-with-images.php:117
+msgid "Categories to show"
+msgstr ""
+
+#: lib/widgets/browse-by-location.php:161
+msgid "See More Locations"
+msgstr ""
+
+#: lib/widgets/browse-by-location.php:201
+msgid "Only show locations below"
+msgstr ""
+
+#: lib/widgets/browse-by-location.php:207
+msgid "Locations to show"
+msgstr ""
+
+#: lib/widgets/ending-soonest.php:11
+msgid "Show the ending soonest projects"
+msgstr ""
+
+#: lib/widgets/ending-soonest.php:13
+msgid "ProjectTheme - Ending Soonest Projects"
+msgstr ""
+
+#: lib/widgets/ending-soonest.php:76 lib/widgets/featured-projects.php:79
+#: lib/widgets/latest-posted-projects.php:74
+#: lib/widgets/most-visited-projects.php:76
+msgid "Show projects limit"
+msgstr ""
+
+#: lib/widgets/latest-posted-projects.php:11
+msgid "Show latest posted projects"
+msgstr ""
+
+#: lib/widgets/latest-posted-projects.php:13
+msgid "ProjectTheme - Latest projects"
+msgstr ""
+
+#: lib/widgets/most-visited-projects.php:11
+msgid "Show most viewed projects"
+msgstr ""
+
+#: lib/widgets/most-visited-projects.php:13
+msgid "ProjectTheme - Most viewed projects"
+msgstr ""
+
+#: search.php:41
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single-project.php:163
+msgid "Your bid must be numeric type. Eg: 9.99"
+msgstr ""
+
+#: single-project.php:168
+msgid "Your cannot bid your own projects."
+msgstr ""
+
+#: single-project.php:199
+#, php-format
+msgid "Payment for bidding on project: <a href=\"%s\">%s</a>"
+msgstr ""
+
+#: single-project.php:286
+#, php-format
+msgid "Project \"%s\" is marked hidden."
+msgstr ""
+
+#: single-project.php:288
+#, php-format
+msgid ""
+"The project \"%s\" was marked as hidden. <a href=\"%s\">Please login</a> to "
+"see project details."
+msgstr ""
+
+#: single-project.php:413
+msgid "Report offensive project"
+msgstr ""
+
+#: single-project.php:415
+msgid "This project has been reported as offensive"
+msgstr ""
+
+#: single-project.php:429
+msgid "Thank you! Your report has been submitted."
+msgstr ""
+
+#: single-project.php:448
+msgid "Slow down buddy! You reported this before."
+msgstr ""
+
+#: single-project.php:549
+msgid "Thank you! Your message has been sent."
+msgstr ""
+
+#: single-project.php:567
+msgid "Slow down buddy!."
+msgstr ""
+
+#: single-project.php:850
+#, php-format
+msgid "%s days"
+msgstr ""
+
+#: single-project.php:855
+msgid "Select as Winner"
+msgstr ""
+
+#: single-project.php:862
+msgid "See Bid Files"
+msgstr ""
+
+#: single-project.php:871
+msgid "Project Winner"
+msgstr ""
+
+#: taxonomy.php:169
+msgid "Keyword:"
+msgstr ""
+
+#: taxonomy.php:170
+msgid "Type here..."
+msgstr ""
+
+#: taxonomy.php:175
+msgid "Project Budget:"
+msgstr ""
+
+#: taxonomy.php:181
+msgid "Ending In:"
+msgstr ""
+
+#: taxonomy.php:183
+msgid "Select Period"
+msgstr ""
+
+#: taxonomy.php:184
+msgid "1 day"
+msgstr ""
+
+#: taxonomy.php:185
+msgid "7 days"
+msgstr ""
+
+#: taxonomy.php:186
+msgid "30 days"
+msgstr ""
+
+#: taxonomy.php:187
+msgid "6 Months"
+msgstr ""
+
+#: taxonomy.php:195
+msgid "Apply Filters"
+msgstr ""
